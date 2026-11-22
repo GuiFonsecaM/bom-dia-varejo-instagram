@@ -1,3 +1,160 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "tipo": "noticia",
+      "categoria": "Varejo",
+      "manchete": "Ele preparou a sucessão da Omie por **4 anos**. A IA o fez desistir de sair",
+      "subtitulo": "",
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/11/marcelo-lombardo-ceo-da-omie-low.jpg",
+      "fonte": "InfoMoney",
+      "data": "22/11/2026",
+      "link": "https://www.infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Marcelo Lombardo desistiu de deixar o comando da Omie em 2026 e reassumiu a dedicação integral à empresa de software após avaliar o impacto da inteligência artificial.",
+            "Para adaptar a companhia à nova tecnologia, o fundador rescindiu os contratos com franqueados, pagou indenizações e centralizou a operação comercial que respondia por **70%** das vendas.",
+            "Com cerca de 1.100 funcionários, a Omie atende mais de **200 mil** empresas, registrou faturamento de **R$ 565 milhões** em 2025 e projeta alcançar **R$ 750 milhões** em 2026."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "A meta da empresa é atingir um ritmo de receitas equivalente a **R$ 1 bilhão** por ano no início de 2027, impulsionada pela automação de vendas por IA.",
+            "O novo sistema permite que agentes de inteligência artificial realizem cadastros, consultas de fluxo de caixa e cobranças por meio de conversas e mensagens de voz no WhatsApp."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#varejo",
+        "#supermercado",
+        "#atacarejo",
+        "#varejoalimentar"
+      ],
+      "feed": true
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e **criação de animais**",
+      "subtitulo": "A prática chamada agrivoltaica combina produção de energia solar com agricultura ou pecuária",
+      "imagem": "https://s2-g1.glbimg.com/r6T0AxEJkzR4bKCpBa1VWw4Yi4E=/1483x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/j/0AQ7HPQcSij6QWT83cxg/dw-painel-solar-ovelhas-1-.png",
+      "fonte": "g1 Economia",
+      "data": "22/11/2026",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A prática chamada agrivoltaica combina produção de energia solar com agricultura ou pecuária; exemplos incluem ovelhas pastando sob painéis em Guizhou, China, e a presença de rebanhos em 1 a cada 10 fazendas solares nos Estados Unidos.",
+            "Os benefícios abrangem sombra para os animais, resfriamento dos painéis que aumenta a geração elétrica, redução da evaporação, microclima mais úmido, fertilização natural do solo pelos dejetos e menor necessidade de herbicidas."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Em meados de 2025, a capacidade instalada mundial de agrivoltaica era de 18,4 gigawatts, representando menos de **1 %** da capacidade solar global.",
+            "Na Europa, se apenas **1 %** das terras agrícolas disponíveis fosse destinada à agrivoltaica, o continente poderia ultrapassar suas metas de energia solar para 2030.",
+            "Existem três modelos principais: horizontal (painéis voltados ao céu), vertical (fileiras perpendiculares ao solo) e integrado (sobre estufas); culturas tolerantes à sombra como frutas vermelhas, uvas, tomates, pêssegos e pimentões podem se beneficiar."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "As ovelhas são consideradas parceiras ideais porque são mais fáceis de manejar que bovinos ou cabras, têm menor risco de danificar equipamentos e, ao serem mantidas sob os painéis, geram fertilização e permitem que produtores recebam pagamento pelo pastoreio…"
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#economia",
+        "#varejo",
+        "#mercado",
+        "#negocios"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Câmara deve votar projeto de ajuste **fiscal nesta segunda**",
+      "subtitulo": "A Câmara dos Deputados planeja votar nesta segunda-feira (23) a proposta de ajuste fiscal enviada pelo governo federal",
+      "imagem": "https://s2-g1.glbimg.com/WuZ8ZxoaXhxiNGC5kIIQQDNZjg8=/2400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg",
+      "fonte": "g1 Política",
+      "data": "22/11/2026",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A Câmara dos Deputados planeja votar nesta segunda-feira (23) a proposta de ajuste fiscal enviada pelo governo federal, sob a articulação do presidente da Casa, Hugo Motta (Republicanos-PB).",
+            "O relator da matéria, deputado Mauro Benevides (União Brasil-CE), preservou o teor aprovado anteriormente pelo Senado na semana passada para agilizar a tramitação.",
+            "O projeto do governo, encabeçado pelo ministro do Planejamento Bruno Moretti, visa conter gastos, elevar a receita e estabilizar a dívida pública sem tocar em programas sociais."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O texto prevê um teto de **2%** para a expansão de despesas em períodos de contingenciamento e um corte linear de **10%** em incentivos concedidos a diversos setores econômicos.",
+            "A iniciativa tem impacto estimado em **R$ 50 bilhões** para o ano de 2027, conforme projeção do relator no Senado, o senador Eduardo Braga (MDB-AM).",
+            "A proposta autoriza o governo a limitar compensações de créditos tributários com outros impostos em momentos de contenção de gastos, gerando maior arrecadação em dinheiro."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#politica",
+        "#economia",
+        "#brasil",
+        "#noticias"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "Novos ataques aumentam a preocupação de países europeus com a **guerra na Ucrânia**",
+      "subtitulo": "",
+      "imagem": "",
+      "fonte": "g1 Mundo",
+      "data": "22/11/2026",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/novos-ataques-aumentam-a-preocupacao-de-paises-europeus-com-a-guerra-na-ucrania.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Novos bombardeios na Ucrânia elevaram a apreensão de nações europeias sobre a possibilidade de expansão do conflito armado na região, especialmente após a recente invasão do espaço aéreo da Polônia.",
+            "O presidente Volodymyr Zelensky questionou a vontade de Vladimir Putin em negociar acordos de paz, justificou os ataques ucranianos à ponte da Crimeia e criticou o tratamento de Donald Trump ao líder russo."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O ministro da Defesa britânico, Wes Streeting, visitou a Ucrânia em sinal de solidariedade europeia e condenou os bombardeios russos direcionados a infraestruturas civis após reuniões internacionais.",
+            "No sábado (21), um cargueiro russo foi atingido por drones em águas internacionais no Golfo da Finlândia, pegou fogo e ficou à deriva, gerando restrições de tráfego e reforço de segurança pelo governo finlandês."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Entre sexta (20) e sábado (21), um ataque russo com mísseis em Krivi Rih atingiu civis e paramédicos em um restaurante, resultando na morte de duas pessoas, incluindo um menino de **7 anos**, e deixando 58 feridos."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
+      ],
+      "feed": false
+    }
+  ]
 }

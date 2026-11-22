@@ -1020,7 +1020,28 @@
   "g1.globo.com/meio-ambiente/noticia/2026/11/21/ainda-nao-ha-compromisso-na-cop31-do-clima-para-um-acordo-afirma-uniao-europeia.ghtml",
   "mercadoeconsumo.com.br/21/11/2026/economia/maksoud-plaza-hotel-de-luxo-fechado-em-2021-pode-virar-condominio-com-398-apartamentos",
   "g1.globo.com/mundo/noticia/2026/11/21/chapeu-preso-no-intestino-causou-morte-da-hipopotamo-fiona-aponta-necropsia.ghtml",
-  "g1.globo.com/mundo/noticia/2026/11/21/ex-procurador-geral-do-paraguai-denuncia-perseguicao-politica-a-onu-apos-escandalo-bancario.ghtml"
+  "g1.globo.com/mundo/noticia/2026/11/21/ex-procurador-geral-do-paraguai-denuncia-perseguicao-politica-a-onu-apos-escandalo-bancario.ghtml",
+  "g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
+  "g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
+  "poder360.com.br/poder-congresso/camara-aprova-credito-de-r-300-mi-para-combater-incendios",
+  "g1.globo.com/g1-explica/noticia/2026/11/22/13o-salario-na-conta-como-decidir-entre-pagar-dividas-investir-ou-aproveitar-as-compras.ghtml",
+  "g1.globo.com/politica/noticia/2026/11/22/exigencias-policia-municipal-prefeituras.ghtml",
+  "g1.globo.com/jornal-nacional/noticia/2026/11/21/novos-ataques-aumentam-a-preocupacao-de-paises-europeus-com-a-guerra-na-ucrania.ghtml",
+  "poder360.com.br/poder-tech/empresa-nos-eua-cria-ia-para-identificar-todos-os-cheiros-do-mundo",
+  "poder360.com.br/poder-saude/raro-na-infancia-cancer-colorretal-cresce-entre-jovens",
+  "poder360.com.br/poder-saude/canetas-antiobesidade-podem-complementar-tratamento-de-bariatrica",
+  "poder360.com.br/poder-economia/por-que-a-america-latina-precisa-de-conexoes-globais-para-inovar",
+  "bbc.com/portuguese/articles/c3ly7g7nen1go",
+  "poder360.com.br/poder-sportsmkt/onu-faz-parceria-com-fluminense-para-promover-agenda-2030",
+  "bbc.com/portuguese/articles/cm2d94xr6l1eo",
+  "poder360.com.br/poder-congresso/lei-amplia-penas-para-abandono-e-maus-tratos-contra-idosos",
+  "poder360.com.br/poder-congresso/cas-aprova-cordao-de-identificacao-para-pessoas-com-parkinson",
+  "infomoney.com.br/mercados/mexico-ganha-espaco-entre-emergentes-enquanto-brasil-perde-preferencia-dos-bancoes",
+  "g1.globo.com/mundo/noticia/2026/11/21/cidade-nos-eua-se-prepara-para-mares-gigantescas-prefeito-pede-que-moradores-estoquem-comida-e-reconsiderem-viagens.ghtml",
+  "bbc.com/portuguese/watch/cqm2l4wpnn2xo",
+  "infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao",
+  "g1.globo.com/mundo/noticia/2026/11/21/como-uma-especialista-em-aves-foi-presa-na-russia-por-causa-de-us-30.ghtml",
+  "bbc.com/portuguese/articles/cm5y1xg8xqjqo"
  ],
  "postados": [
   {
@@ -1864,6 +1885,34 @@
    "categoria": "Mundo",
    "titulo": "Os cidadãos impedidos pelo governo Ortega de voltar à Nicarágua: 'Sou ilegal no meu próprio país'",
    "em": "2026-11-21 19:00",
+   "feed": false
+  },
+  {
+   "chave": "infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao",
+   "categoria": "Varejo",
+   "titulo": "Ele preparou a sucessão da Omie por 4 anos. A IA o fez desistir de sair",
+   "em": "2026-11-22 09:00",
+   "feed": true
+  },
+  {
+   "chave": "g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
+   "categoria": "Economia",
+   "titulo": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e criação de animais",
+   "em": "2026-11-22 09:00",
+   "feed": false
+  },
+  {
+   "chave": "g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
+   "categoria": "Política",
+   "titulo": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
+   "em": "2026-11-22 09:00",
+   "feed": false
+  },
+  {
+   "chave": "g1.globo.com/jornal-nacional/noticia/2026/11/21/novos-ataques-aumentam-a-preocupacao-de-paises-europeus-com-a-guerra-na-ucrania.ghtml",
+   "categoria": "Mundo",
+   "titulo": "Novos ataques aumentam a preocupação de países europeus com a guerra na Ucrânia",
+   "em": "2026-11-22 09:00",
    "feed": false
   }
  ]
