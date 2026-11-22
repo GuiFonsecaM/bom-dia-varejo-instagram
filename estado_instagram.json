@@ -1041,7 +1041,24 @@
   "bbc.com/portuguese/watch/cqm2l4wpnn2xo",
   "infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao",
   "g1.globo.com/mundo/noticia/2026/11/21/como-uma-especialista-em-aves-foi-presa-na-russia-por-causa-de-us-30.ghtml",
-  "bbc.com/portuguese/articles/cm5y1xg8xqjqo"
+  "bbc.com/portuguese/articles/cm5y1xg8xqjqo",
+  "mercadoeconsumo.com.br/22/11/2026/supermercados/roldao-aposta-em-low-cost-para-renovar-loja-na-grande-sao-paulo",
+  "g1.globo.com/turismo-e-viagem/noticia/2026/11/22/os-20-melhores-destinos-de-viagem-em-2027.ghtml",
+  "g1.globo.com/mundo/noticia/2026/11/22/a-utopia-socialista-que-levou-um-grupo-de-australianos-idealistas-ao-paraguai-ha-mais-de-130-anos.ghtml",
+  "moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores",
+  "g1.globo.com/meio-ambiente/noticia/2026/11/22/cop31-acordo-final-plenaria.ghtml",
+  "poder360.com.br/poder-gente/morre-paolo-bulgari-responsavel-pela-expansao-global-da-joalheria",
+  "poder360.com.br/poder-justica/oab-sp-estima-perda-de-r-200-bilhoes-por-ano-com-pejotizacao",
+  "poder360.com.br/poder-internacional/sindicato-convoca-mais-de-23-000-trabalhadores-para-greve-na-alemanha",
+  "poder360.com.br/poder-governo/sidonio-deixara-secom-com-lula-mais-ativo-nas-redes-sociais",
+  "g1.globo.com/mundo/noticia/2026/11/22/el-nino-galapagos-chuvas.ghtml",
+  "poder360.com.br/poder-internacional/cop31-nao-chega-a-consenso-e-deve-terminar-sem-acordo-climatico",
+  "poder360.com.br/poder-tech/evolucao-da-ia-pode-ampliar-riscos-a-ciberseguranca-diz-especialista",
+  "g1.globo.com/mundo/noticia/2026/11/22/como-um-adolescente-e-sua-mae-ajudaram-a-resgatar-uma-garota-desaparecida-apos-um-encontro-em-um-jogo-online.ghtml",
+  "poder360.com.br/poder-partidos-politicos/numero-de-partidos-cai-desde-o-inicio-da-clausula-de-desempenho",
+  "poder360.com.br/poder-internacional/brasil-teve-1-600-intoxicacoes-por-pesticidas-europeus-em-2025",
+  "poder360.com.br/poder-sportsmkt/premiacao-do-flamengo-pelo-brasileiro-vem-dos-direitos-de-tv-leia-quanto",
+  "poder360.com.br/poder-sportsmkt/atletico-mg-fatura-r-31-milhoes-com-vice-da-sul-americana"
  ],
  "postados": [
   {
@@ -1913,6 +1930,34 @@
    "categoria": "Mundo",
    "titulo": "Novos ataques aumentam a preocupação de países europeus com a guerra na Ucrânia",
    "em": "2026-11-22 09:00",
+   "feed": false
+  },
+  {
+   "chave": "mercadoeconsumo.com.br/22/11/2026/supermercados/roldao-aposta-em-low-cost-para-renovar-loja-na-grande-sao-paulo",
+   "categoria": "Varejo",
+   "titulo": "Roldão aposta em low cost para renovar loja na Grande São Paulo",
+   "em": "2026-11-22 13:00",
+   "feed": true
+  },
+  {
+   "chave": "g1.globo.com/turismo-e-viagem/noticia/2026/11/22/os-20-melhores-destinos-de-viagem-em-2027.ghtml",
+   "categoria": "Mundo",
+   "titulo": "Os 20 melhores destinos de viagem em 2027",
+   "em": "2026-11-22 13:00",
+   "feed": false
+  },
+  {
+   "chave": "moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores",
+   "categoria": "Economia",
+   "titulo": "Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores",
+   "em": "2026-11-22 13:00",
+   "feed": false
+  },
+  {
+   "chave": "poder360.com.br/poder-gente/morre-paolo-bulgari-responsavel-pela-expansao-global-da-joalheria",
+   "categoria": "Política",
+   "titulo": "Morre Paolo Bulgari, responsável pela expansão global da joalheria",
+   "em": "2026-11-22 13:00",
    "feed": false
   }
  ]

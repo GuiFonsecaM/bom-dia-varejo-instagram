@@ -3,27 +3,34 @@
     {
       "tipo": "noticia",
       "categoria": "Varejo",
-      "manchete": "Ele preparou a sucessão da Omie por **4 anos**. A IA o fez desistir de sair",
-      "subtitulo": "",
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/11/marcelo-lombardo-ceo-da-omie-low.jpg",
-      "fonte": "InfoMoney",
+      "manchete": "Roldão aposta em low cost para renovar loja na **Grande São Paulo**",
+      "subtitulo": "O Roldão Atacadista reinaugurou sua unidade localizada em Franco da Rocha, na Grande São Paulo",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/roldao-atacadista-divulgroldao-atacadista.jpg",
+      "fonte": "Mercado & Consumo",
       "data": "22/11/2026",
-      "link": "https://www.infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao/",
+      "link": "https://mercadoeconsumo.com.br/22/11/2026/supermercados/roldao-aposta-em-low-cost-para-renovar-loja-na-grande-sao-paulo/",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "Marcelo Lombardo desistiu de deixar o comando da Omie em 2026 e reassumiu a dedicação integral à empresa de software após avaliar o impacto da inteligência artificial.",
-            "Para adaptar a companhia à nova tecnologia, o fundador rescindiu os contratos com franqueados, pagou indenizações e centralizou a operação comercial que respondia por **70%** das vendas.",
-            "Com cerca de 1.100 funcionários, a Omie atende mais de **200 mil** empresas, registrou faturamento de **R$ 565 milhões** em 2025 e projeta alcançar **R$ 750 milhões** em 2026."
+            "O Roldão Atacadista reinaugurou sua unidade localizada em Franco da Rocha, na Grande São Paulo, adotando o modelo operacional conhecido como low-cost.",
+            "A estratégia prioriza a diminuição de custos operacionais e foca em aportes voltados a produtos e serviços essenciais, conforme explicou a gerente de Marketing e Trade Marketing, Victória Roldão.",
+            "A loja modernizada ganhou um mix ampliado, novos espaços e uma área dedicada à Vestcasa com itens de cama, mesa, banho e utilidades domésticas, além de açougue, padaria e hortifrúti."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "A meta da empresa é atingir um ritmo de receitas equivalente a **R$ 1 bilhão** por ano no início de 2027, impulsionada pela automação de vendas por IA.",
-            "O novo sistema permite que agentes de inteligência artificial realizem cadastros, consultas de fluxo de caixa e cobranças por meio de conversas e mensagens de voz no WhatsApp."
+            "A rede também inaugurou sua maior unidade em São Vicente, no litoral paulista, que possui **22 mil** metros quadrados e integra atacarejo e galeria comercial.",
+            "A nova loja em São Vicente conta com um empório de frios em parceria com a BRF e um açougue operado pela Marfrig.",
+            "O atendimento ao público ocorre de segunda a sábado, das 7h às 22h, e aos domingos, das 8h às 20h, com funcionamento mantido inclusive em feriados."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "A estrutura em São Vicente dispõe de 16 caixas tradicionais, seis terminais de autoatendimento e 405 vagas de estacionamento divididas entre várias categorias."
           ]
         }
       ],
@@ -37,35 +44,71 @@
       "feed": true
     },
     {
-      "tipo": "noticia",
-      "categoria": "Economia",
-      "manchete": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e **criação de animais**",
-      "subtitulo": "A prática chamada agrivoltaica combina produção de energia solar com agricultura ou pecuária",
-      "imagem": "https://s2-g1.glbimg.com/r6T0AxEJkzR4bKCpBa1VWw4Yi4E=/1483x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/j/0AQ7HPQcSij6QWT83cxg/dw-painel-solar-ovelhas-1-.png",
-      "fonte": "g1 Economia",
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "Os 20 melhores destinos de **viagem em 2027**",
+      "subtitulo": "A BBC Travel divulgou um guia com os 20 melhores destinos globais para visitar em 2027",
+      "imagem": "https://s2-g1.glbimg.com/tHWwmdyVk4QbhSQWOXyyvVTCLI8=/624x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/5/FQPty8Qz6ICuhBzwBGYg/6843dae0-e475-11f1-a094-5fdc692f3e33.jpg.webp",
+      "fonte": "g1 Mundo",
       "data": "22/11/2026",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
+      "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/22/os-20-melhores-destinos-de-viagem-em-2027.ghtml",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "A prática chamada agrivoltaica combina produção de energia solar com agricultura ou pecuária; exemplos incluem ovelhas pastando sob painéis em Guizhou, China, e a presença de rebanhos em 1 a cada 10 fazendas solares nos Estados Unidos.",
-            "Os benefícios abrangem sombra para os animais, resfriamento dos painéis que aumenta a geração elétrica, redução da evaporação, microclima mais úmido, fertilização natural do solo pelos dejetos e menor necessidade de herbicidas."
+            "A BBC Travel divulgou um guia com os 20 melhores destinos globais para visitar em 2027, focando em locais que aliam turismo sustentável, preservação cultural e proteção ambiental.",
+            "Madagascar quer triplicar seus visitantes em dois anos, planeja plantar as últimas árvores de um corredor de 150 hectares na Reserva de Mitsinjo em 2027 e usa taxas da Reserva Anja para saúde e educação."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "Em meados de 2025, a capacidade instalada mundial de agrivoltaica era de 18,4 gigawatts, representando menos de **1 %** da capacidade solar global.",
-            "Na Europa, se apenas **1 %** das terras agrícolas disponíveis fosse destinada à agrivoltaica, o continente poderia ultrapassar suas metas de energia solar para 2030.",
-            "Existem três modelos principais: horizontal (painéis voltados ao céu), vertical (fileiras perpendiculares ao solo) e integrado (sobre estufas); culturas tolerantes à sombra como frutas vermelhas, uvas, tomates, pêssegos e pimentões podem se beneficiar."
+            "A Cidade de Quebec tornou-se a primeira do mundo a ser integralmente designada Reserva da Biosfera da Unesco e inaugurará um complexo de sauna flutuante em dezembro, além de oferecer aulas de canoagem no gelo entre dezembro e março.",
+            "A península de Ise-Shima, no Japão, sediará em 2027 o ritual centenário okihiki, que ocorre a cada **20 anos** para a reconstrução manual de santuários e acontecerá nos fins de semana de 8 de maio a 12 de junho e de 24 de julho a 1° de agosto."
           ]
         },
         {
           "titulo": "Contexto",
           "topicos": [
-            "As ovelhas são consideradas parceiras ideais porque são mais fáceis de manejar que bovinos ou cabras, têm menor risco de danificar equipamentos e, ao serem mantidas sob os painéis, geram fertilização e permitem que produtores recebam pagamento pelo pastoreio…"
+            "A remota ilha de Santa Helena, no Atlântico Sul, possui 122 km², cerca de **4 mil** habitantes, é conectada por um voo semanal de 98 lugares a Joanesburgo e sediará a primeira Maratona Mais Remota do Mundo em 28 de fevereiro de 2027.",
+            "Salvador, no Brasil, é um dos destaques do guia por estar entre os locais que atrairão a atenção global ao receber a Copa do Mundo da Fifa de Futebol Feminino em 2027."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Inflação no Brasil e nos EUA movimentam a semana; veja a **agenda de indicadores**",
+      "subtitulo": "Entre 23 e 27 de novembro de 2026, mercados globais monitoram indicadores de inflação",
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/07/agenda-indicadores-mercados.jpg",
+      "fonte": "Money Times",
+      "data": "22/11/2026",
+      "link": "https://www.moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Entre 23 e 27 de novembro de 2026, mercados globais monitoram indicadores de inflação, atividade econômica e contas públicas, além do feriado de Thanksgiving nos Estados Unidos.",
+            "No Brasil, o destaque de quinta-feira (26) é o IPCA-15 de novembro, enquanto a sexta-feira (27) traz dados de desemprego, dívida bruta e resultado fiscal de outubro.",
+            "Nos Estados Unidos, a quarta-feira (25) concentra a divulgação do índice PCE de outubro, a segunda estimativa do PIB do terceiro trimestre e o Livro Bege do Fed."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Na Europa, o Reino Unido divulga PMIs em 23/11 e a ata do Banco da Inglaterra em 26/11, e a União Europeia traz PMIs, atas do BCE e cúpula de líderes.",
+            "No Japão, a semana tem feriado do Dia de Ação de Graças Trabalhista em 23/11, divulgação de PMIs, discurso de Naoki Tamura e inflação ao consumidor de Tóquio."
           ]
         }
       ],
@@ -81,28 +124,33 @@
     {
       "tipo": "noticia",
       "categoria": "Política",
-      "manchete": "Câmara deve votar projeto de ajuste **fiscal nesta segunda**",
-      "subtitulo": "A Câmara dos Deputados planeja votar nesta segunda-feira (23) a proposta de ajuste fiscal enviada pelo governo federal",
-      "imagem": "https://s2-g1.glbimg.com/WuZ8ZxoaXhxiNGC5kIIQQDNZjg8=/2400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg",
-      "fonte": "g1 Política",
+      "manchete": "Morre Paolo Bulgari, **responsável pela expansão global da joalheria**",
+      "subtitulo": "Morreu em Roma, aos 89 anos, o empresário italiano Paolo Bulgari, neto do fundador e presidente da joalheria desde 1984",
+      "imagem": "https://static.poder360.com.br/uploads/2026/11/Paolo-Bulgari-1.png",
+      "fonte": "Poder360",
       "data": "22/11/2026",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
+      "link": "https://www.poder360.com.br/poder-gente/morre-paolo-bulgari-responsavel-pela-expansao-global-da-joalheria/",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "A Câmara dos Deputados planeja votar nesta segunda-feira (23) a proposta de ajuste fiscal enviada pelo governo federal, sob a articulação do presidente da Casa, Hugo Motta (Republicanos-PB).",
-            "O relator da matéria, deputado Mauro Benevides (União Brasil-CE), preservou o teor aprovado anteriormente pelo Senado na semana passada para agilizar a tramitação.",
-            "O projeto do governo, encabeçado pelo ministro do Planejamento Bruno Moretti, visa conter gastos, elevar a receita e estabilizar a dívida pública sem tocar em programas sociais."
+            "Morreu em Roma, aos **89 anos**, o empresário italiano Paolo Bulgari, neto do fundador e presidente da joalheria desde 1984. O falecimento foi comunicado pela família no sábado (21.nov.2026) e confirmado pela empresa, sem divulgação da causa da morte.",
+            "Nascido em Roma em 1937, Paolo começou a trabalhar com seu pai em 1960 na seleção de gemas e criação de peças. Na década de 1960, junto com os irmãos Gianni e Nicola, assumiu a direção da marca fundada em 1884 por seu avô Sotirio."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "O texto prevê um teto de **2%** para a expansão de despesas em períodos de contingenciamento e um corte linear de **10%** em incentivos concedidos a diversos setores econômicos.",
-            "A iniciativa tem impacto estimado em **R$ 50 bilhões** para o ano de 2027, conforme projeção do relator no Senado, o senador Eduardo Braga (MDB-AM).",
-            "A proposta autoriza o governo a limitar compensações de créditos tributários com outros impostos em momentos de contenção de gastos, gerando maior arrecadação em dinheiro."
+            "O empresário liderou a expansão internacional da joalheria para outros mercados europeus e para os Estados Unidos, além de ter sido responsável pelo desenvolvimento do estilo das coleções e pelo conhecimento em pedras preciosas.",
+            "Em 2011, o controle da Bulgari foi vendido ao grupo francês LVMH. A transação envolveu a transferência de **55,03%** do capital da joalheria em troca de cerca de **18 milhões** de novas ações do conglomerado, conforme documento de 30 de junho daquele ano."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Pelo acordo da venda, Paolo permaneceu como presidente do conselho de administração da marca e seu irmão Nicola continuou como vice-presidente. Paolo também criou em 2019, com sua mulher Maite Carpio, uma fundação voltada à educação em bairros periféricos de Roma.",
+            "O funeral de Paolo Bulgari foi agendado para a segunda-feira (23.nov), às 11h no horário local, na Basílica de Santa Cruz de Jerusalém, na cidade de Roma."
           ]
         }
       ],
@@ -112,47 +160,6 @@
         "#economia",
         "#brasil",
         "#noticias"
-      ],
-      "feed": false
-    },
-    {
-      "tipo": "mundo",
-      "categoria": "Mundo",
-      "manchete": "Novos ataques aumentam a preocupação de países europeus com a **guerra na Ucrânia**",
-      "subtitulo": "",
-      "imagem": "",
-      "fonte": "g1 Mundo",
-      "data": "22/11/2026",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/novos-ataques-aumentam-a-preocupacao-de-paises-europeus-com-a-guerra-na-ucrania.ghtml",
-      "materia": "",
-      "slides": [
-        {
-          "titulo": "O que aconteceu",
-          "topicos": [
-            "Novos bombardeios na Ucrânia elevaram a apreensão de nações europeias sobre a possibilidade de expansão do conflito armado na região, especialmente após a recente invasão do espaço aéreo da Polônia.",
-            "O presidente Volodymyr Zelensky questionou a vontade de Vladimir Putin em negociar acordos de paz, justificou os ataques ucranianos à ponte da Crimeia e criticou o tratamento de Donald Trump ao líder russo."
-          ]
-        },
-        {
-          "titulo": "Mais detalhes",
-          "topicos": [
-            "O ministro da Defesa britânico, Wes Streeting, visitou a Ucrânia em sinal de solidariedade europeia e condenou os bombardeios russos direcionados a infraestruturas civis após reuniões internacionais.",
-            "No sábado (21), um cargueiro russo foi atingido por drones em águas internacionais no Golfo da Finlândia, pegou fogo e ficou à deriva, gerando restrições de tráfego e reforço de segurança pelo governo finlandês."
-          ]
-        },
-        {
-          "titulo": "Contexto",
-          "topicos": [
-            "Entre sexta (20) e sábado (21), um ataque russo com mísseis em Krivi Rih atingiu civis e paramédicos em um restaurante, resultando na morte de duas pessoas, incluindo um menino de **7 anos**, e deixando 58 feridos."
-          ]
-        }
-      ],
-      "hashtags": [
-        "#BomDiaVarejo",
-        "#mundo",
-        "#economiaglobal",
-        "#noticias",
-        "#internacional"
       ],
       "feed": false
     }
