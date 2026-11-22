@@ -1058,7 +1058,32 @@
   "poder360.com.br/poder-partidos-politicos/numero-de-partidos-cai-desde-o-inicio-da-clausula-de-desempenho",
   "poder360.com.br/poder-internacional/brasil-teve-1-600-intoxicacoes-por-pesticidas-europeus-em-2025",
   "poder360.com.br/poder-sportsmkt/premiacao-do-flamengo-pelo-brasileiro-vem-dos-direitos-de-tv-leia-quanto",
-  "poder360.com.br/poder-sportsmkt/atletico-mg-fatura-r-31-milhoes-com-vice-da-sul-americana"
+  "poder360.com.br/poder-sportsmkt/atletico-mg-fatura-r-31-milhoes-com-vice-da-sul-americana",
+  "g1.globo.com/pop-arte/noticia/2026/11/22/fui-coagida-a-ter-um-filho-como-um-bilionario-enganou-a-dj-de-sucesso-liv-nervo-para-que-ela-engravidasse.ghtml",
+  "mercadoeconsumo.com.br/22/11/2026/economia/mais-da-metade-das-empresas-leva-mais-de-24h-para-analisar-credito",
+  "g1.globo.com/mundo/noticia/2026/11/22/bancada-democrata-na-camara-dos-eua-atinge-marca-historica.ghtml",
+  "mercadoeconsumo.com.br/22/11/2026/tecnologia/agentes-de-ia-entram-no-radar-dos-bancos-e-devem-mudar-pagamentos",
+  "poder360.com.br/poder-eleicoes-2026/flavio-diz-nao-ter-provas-de-fraude-por-ser-proibido-de-investigar",
+  "bbc.com/portuguese/articles/cq742zpk1ln4o",
+  "poder360.com.br/poder-gente/apoiadores-oram-pela-saude-de-bolsonaro-em-frente-a-hospital",
+  "mercadoeconsumo.com.br/22/11/2026/economia/com-impasse-sobre-combustiveis-fosseis-cop31-termina-sem-acordo-final",
+  "poder360.com.br/poder-internacional/humorista-imita-trump-em-jantar-com-primeiro-ministro-do-canada",
+  "g1.globo.com/mundo/noticia/2026/11/22/suspensao-temporaria-voos-companhia-aerea-eua-falha-em-sistema.ghtml",
+  "bbc.com/portuguese/articles/cqr7g87en4pno",
+  "poder360.com.br/poder-internacional/editora-lpm-aciona-justica-contra-openai-por-direitos-autorais",
+  "infomoney.com.br/mundo/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario",
+  "poder360.com.br/poder-internacional/ice-prende-2-imigrantes-em-aeroporto-dos-eua-e-recebe-criticas",
+  "poder360.com.br/poder-saude/aplicativo-pode-ajudar-a-racionalizar-filas-para-consultas-e-cirurgias",
+  "g1.globo.com/mundo/noticia/2026/11/22/eua-cha-de-bebe-termina-em-tiroteio-com-3-mortos-e-1-ferido.ghtml",
+  "infomoney.com.br/mundo/juros-do-cartao-a-10-a-proposta-de-trump-que-une-rivais-e-assusta-bancos",
+  "agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-segue-internado-na-uti-sem-previsao-de-alta",
+  "bbc.com/portuguese/articles/cm3wgpye8glyo",
+  "poder360.com.br/poder-flash/leia-a-integra-do-boletim-medico-de-bolsonaro-deste-domingo",
+  "poder360.com.br/poder-brasil/bolsonaro-esta-estavel-na-uti-e-segue-sem-previsao-de-alta-diz-boletim",
+  "g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml",
+  "poder360.com.br/poder-brasil/mega-sena-acumula-e-pode-pagar-r-65-milhoes-na-3a-feira",
+  "g1.globo.com/meio-ambiente/noticia/2026/11/22/cop31-fracasso-brasil-turquia.ghtml",
+  "g1.globo.com/mundo/noticia/2026/11/22/ataque-russo-kiev-ucrania.ghtml"
  ],
  "postados": [
   {
@@ -1958,6 +1983,34 @@
    "categoria": "Política",
    "titulo": "Morre Paolo Bulgari, responsável pela expansão global da joalheria",
    "em": "2026-11-22 13:00",
+   "feed": false
+  },
+  {
+   "chave": "mercadoeconsumo.com.br/22/11/2026/economia/mais-da-metade-das-empresas-leva-mais-de-24h-para-analisar-credito",
+   "categoria": "Varejo",
+   "titulo": "Mais da metade das empresas leva mais de 24h para analisar crédito",
+   "em": "2026-11-22 19:00",
+   "feed": true
+  },
+  {
+   "chave": "g1.globo.com/pop-arte/noticia/2026/11/22/fui-coagida-a-ter-um-filho-como-um-bilionario-enganou-a-dj-de-sucesso-liv-nervo-para-que-ela-engravidasse.ghtml",
+   "categoria": "Mundo",
+   "titulo": "'Fui coagida a ter um filho': como um bilionário enganou a DJ de sucesso Liv Nervo para que ela engravidasse",
+   "em": "2026-11-22 19:00",
+   "feed": false
+  },
+  {
+   "chave": "mercadoeconsumo.com.br/22/11/2026/tecnologia/agentes-de-ia-entram-no-radar-dos-bancos-e-devem-mudar-pagamentos",
+   "categoria": "Economia",
+   "titulo": "Agentes de IA entram no radar dos bancos e devem mudar pagamentos",
+   "em": "2026-11-22 19:00",
+   "feed": false
+  },
+  {
+   "chave": "poder360.com.br/poder-eleicoes-2026/flavio-diz-nao-ter-provas-de-fraude-por-ser-proibido-de-investigar",
+   "categoria": "Política",
+   "titulo": "Flávio diz não ter provas de fraude por ser “proibido de investigar”",
+   "em": "2026-11-22 19:00",
    "feed": false
   }
  ]

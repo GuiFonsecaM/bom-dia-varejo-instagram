@@ -1,3 +1,161 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "tipo": "noticia",
+      "categoria": "Varejo",
+      "manchete": "Mais da metade das empresas leva mais de 24h **para analisar crédito**",
+      "subtitulo": "Mais de 50% das empresas brasileiras demoram mais de 24 horas para aprovar ou negar pedidos de crédito",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/credito4-envato.webp",
+      "fonte": "Mercado & Consumo",
+      "data": "22/11/2026",
+      "link": "https://mercadoeconsumo.com.br/22/11/2026/economia/mais-da-metade-das-empresas-leva-mais-de-24h-para-analisar-credito/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Mais de **50%** das empresas brasileiras demoram mais de 24 horas para aprovar ou negar pedidos de crédito, conforme pesquisa da Assertiva divulgada após consulta realizada entre 23 de junho e 6 de outubro de 2026 com 150 profissionais de todo o país.",
+            "O levantamento aponta que **31,3%** das organizações levam de um a dois dias úteis para tomar a decisão, enquanto **22,7%** precisam de mais de dois dias úteis, afetando companhias de variados portes."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "A lentidão na análise atinge **64,8%** das microempresas, **51,3%** das pequenas e médias, **52%** das grandes e **49,1%** das empresas da categoria enterprise que demoram ao menos um dia útil para decidir.",
+            "Em contrapartida, apenas **13,3%** das companhias concluem o processo em minutos de forma automatizada, **6,7%** o fazem em menos de uma hora e somente **6,7%** usam sistemas de inteligência artificial para aprovação ou negação automática."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "A pesquisa revela que **14%** das empresas realizam a avaliação com planilhas e análises manuais, e **16,7%** consultam birôs de crédito sem integrar essas informações aos sistemas internos.",
+            "O estudo classifica **41,3%** das empresas como maduras nos processos de análise de crédito, enquanto **58,7%** estão em estágio de desenvolvimento ou possuem processos incipientes, com concentração de **78,7%** dos entrevistados na região Sudeste."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#varejo",
+        "#supermercado",
+        "#atacarejo",
+        "#varejoalimentar"
+      ],
+      "feed": true
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "'Fui coagida a ter um filho': como um bilionário enganou a DJ de sucesso Liv Nervo para **que ela engravidasse**",
+      "subtitulo": "A DJ Olivia Nervo, integrante da dupla australiana Nervo, relatou ter sido enganada por seu ex-parceiro",
+      "imagem": "https://s2-g1.glbimg.com/RnGpzSo_6YTYHbjGKwKXnKFw_a4=/800x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/F/qV52WXRECQs0jBqTQ1JA/2445eadb-89ae-4c81-8b35-d4b34dee8675.png",
+      "fonte": "g1 Mundo",
+      "data": "22/11/2026",
+      "link": "https://g1.globo.com/pop-arte/noticia/2026/11/22/fui-coagida-a-ter-um-filho-como-um-bilionario-enganou-a-dj-de-sucesso-liv-nervo-para-que-ela-engravidasse.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A DJ Olivia Nervo, integrante da dupla australiana Nervo, relatou ter sido enganada por seu ex-parceiro, o empresário neozelandês Matthew Pringle, para engravidar.",
+            "Os dois se conheceram em 2016 durante um evento beneficente na ilha particular do magnata Richard Branson, no Caribe, e o relacionamento avançou rapidamente.",
+            "Cerca de um ano e meio após o início do namoro, em 2018, o casal decidiu tentar ter um bebê, com Pringle demonstrando entusiasmo com a ideia de constituir família."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Em dezembro de 2018, com quatro meses de gravidez, Pringle começou a se afastar, abandonando a parceira em datas comemorativas e momentos importantes.",
+            "Em fevereiro de 2019, com mais de seis meses de gestação, investigações revelaram que Pringle mantinha uma vida paralela, incluindo outra mulher prestes a dar à luz."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Agentes de IA entram no radar dos bancos e **devem mudar pagamentos**",
+      "subtitulo": "O estudo \"Tecnologias Emergentes para o Setor Bancário 2026\", da Febraban com a Accenture",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/IA-webCelular.jpg",
+      "fonte": "Mercado & Consumo",
+      "data": "22/11/2026",
+      "link": "https://mercadoeconsumo.com.br/22/11/2026/tecnologia/agentes-de-ia-entram-no-radar-dos-bancos-e-devem-mudar-pagamentos/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "O estudo \"Tecnologias Emergentes para o Setor Bancário 2026\", da Febraban com a Accenture, aponta que agentes de IA devem transformar compras online e pagamentos.",
+            "A pesquisa da Nexus indica que **37%** dos brasileiros já realizaram compras influenciadas por IA, enquanto um levantamento da Worldpay mostra que **40%** delegariam todo o processo a assistentes.",
+            "O orçamento do setor bancário para tecnologia deve atingir **R$ 50 bilhões** em 2026, com cerca de **R$ 3 bilhões** destinados à Inteligência Artificial, segundo o estudo."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "A pesquisa revela que **92%** dos bancos brasileiros já registram ganhos de eficiência por meio do uso da Inteligência Artificial em suas operações.",
+            "Os bancos brasileiros destinam cerca de **R$ 5 bilhões** anualmente à cibersegurança, montante que representa **10%** do orçamento total dedicado à tecnologia.",
+            "O levantamento aponta que **71%** dos bancos brasileiros consideram a computação quântica relevante para aplicações em análise de risco, detecção de fraudes e investimentos."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#economia",
+        "#varejo",
+        "#mercado",
+        "#negocios"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Flávio diz não ter provas de fraude por ser **“proibido de investigar”**",
+      "subtitulo": "O senador Flávio Bolsonaro (PL-RJ), candidato derrotado à Presidência",
+      "imagem": "https://static.poder360.com.br/uploads/2026/11/flavio-entrevista-fox-news.png",
+      "fonte": "Poder360",
+      "data": "22/11/2026",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-nao-ter-provas-de-fraude-por-ser-proibido-de-investigar/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "O senador Flávio Bolsonaro (PL-RJ), candidato derrotado à Presidência, declarou à emissora norte-americana Fox News que não possui provas de irregularidades nas eleições de 2026 porque é proibido de investigar.",
+            "Na entrevista com duração de 7min10s divulgada em novembro de 2026, o parlamentar afirmou que perdeu a disputa para o sistema e criticou a atuação dos técnicos do Tribunal Superior Eleitoral."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Para defender a adoção do voto impresso, Flávio citou o modelo da Venezuela de 2024, mas confundiu comprovantes individuais com as atas de votação utilizadas pela oposição daquele país.",
+            "O senador está nos Estados Unidos desde 27 de outubro de 2026, quando viajou dois dias após a realização do segundo turno do pleito presidencial brasileiro.",
+            "O Tribunal Superior Eleitoral, partidos políticos, observadores internacionais e o próprio PL rejeitam as declarações de fraude feitas pelo congressista durante sua estadia no exterior."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "O sistema eletrônico brasileiro é auditável, sem conexão com internet ou redes externas, utiliza assinatura digital criptografada e teve o código-fonte aberto para inspeção prévia."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#politica",
+        "#economia",
+        "#brasil",
+        "#noticias"
+      ],
+      "feed": false
+    }
+  ]
 }
