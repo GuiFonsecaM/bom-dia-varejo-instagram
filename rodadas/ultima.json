@@ -1,3 +1,168 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "tipo": "noticia",
+      "categoria": "Varejo",
+      "manchete": "Vendedor de loja fazendo live: a China já testou, **e a lição vai além da câmera**",
+      "subtitulo": "Em 9 de novembro, na NeoConference em São Paulo, Alexandre Birman, CEO da Arezzo",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/live-shop-em-loja-de-roupa_imagem-gerada-por-IA_ChatGPT_MercadoConsumo_2026.png",
+      "fonte": "Mercado & Consumo",
+      "data": "23/11/2026",
+      "link": "https://mercadoeconsumo.com.br/23/11/2026/noticias/vendedor-de-loja-fazendo-live-a-china-ja-testou-e-a-licao-vai-alem-da-camera/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Em 9 de novembro, na NeoConference em São Paulo, Alexandre Birman, CEO da Arezzo, anunciou um investimento pesado no TikTok Shop, alinhando-se à tendência global de colocar vendedores de lojas para realizar transmissões ao vivo.",
+            "No mercado chinês, a live feita pelas próprias marcas superou a dos influenciadores em categorias específicas; no Festival 618, marcas de beleza responderam por **50,7%** das vendas ao vivo, e a conta de natação no Douyin atingiu **41,9%** em junho de 2025."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O modelo de vendas por balconistas funciona melhor onde a marca já é conhecida, como beleza e calçados, enquanto produtos dependentes de descoberta continuam tendo melhor desempenho com influenciadores.",
+            "Durante o fechamento de shoppings no início de 2020, a rede de departamentos Intime elevou de 50 para **5 mil** o número de vendedores no Taobao Live em cerca de 20 dias, impulsionada por um sistema de comissão dupla sem teto."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Desde 1º de fevereiro de 2026, a China exige que empresas que realizam lives com funcionários exibam razão social, validem dados dos apresentadores, guardem registros por três anos e assumam responsabilidade administrativa por falhas.",
+            "O TikTok Shop chegou ao Brasil em maio de 2025 e viu o volume diário de vendas crescer 102 vezes em um ano, com as lives avançando 161 vezes, enquanto a Natura realizou **52 mil** transmissões na plataforma em 2025, sendo **60%** por consultoras."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#varejo",
+        "#supermercado",
+        "#atacarejo",
+        "#varejoalimentar"
+      ],
+      "feed": true
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "Varejo e consumo no Japão **servem de inspiração**",
+      "subtitulo": "O varejo do Japão se transforma em plataformas integradas de serviços e ecossistemas",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/toquio-envato.webp",
+      "fonte": "Mercado & Consumo",
+      "data": "23/11/2026",
+      "link": "https://mercadoeconsumo.com.br/23/11/2026/artigos/varejo-e-consumo-no-japao-servem-de-inspiracao/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "O varejo do Japão se transforma em plataformas integradas de serviços e ecossistemas, antecipando tendências globais impulsionadas pelo envelhecimento populacional, redução da força de trabalho e avanço tecnológico.",
+            "Redes como o Aeon Group combinam supermercados, shoppings, serviços financeiros e saúde, enquanto a 7-Eleven une produtos, meios de pagamento, retirada de encomendas e alimentação pronta."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "A rede de drogarias Welcia integra medicamentos, higiene, beleza e serviços farmacêuticos, além de oferecer atendimento móvel em áreas com menor acesso a estabelecimentos comerciais.",
+            "Lojas de departamentos japonesas como Takashimaya, Isetan Mitsukoshi e Daimaru destacam-se pelo conceito depachika nos subsolos, integrando gastronomia, alimentação saudável e refeições preparadas.",
+            "O programa Rakuten Points e empresas como o Rakuten Group conectam comércio eletrônico, serviços financeiros, banco, cartões, seguros, telecomunicações, turismo e entretenimento."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "A escassez de mão de obra no Japão torna a automação, a inteligência artificial e a tecnologia condições essenciais para sustentar operações, prever demanda e ampliar a produtividade."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de **R$ 50 bilhões em 2027**",
+      "subtitulo": "O presidente da Câmara, Hugo Motta (Republicanos-PB)",
+      "imagem": "https://s2-g1.glbimg.com/WuZ8ZxoaXhxiNGC5kIIQQDNZjg8=/2400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg",
+      "fonte": "g1 Política",
+      "data": "23/11/2026",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "O presidente da Câmara, Hugo Motta (Republicanos-PB), decidiu acelerar a votação de um projeto de ajuste fiscal do governo Lula para esta segunda-feira, dia atípico para votações na Casa.",
+            "O relator da matéria no Senado, Eduardo Braga (MDB-AM), estimou que as medidas trarão um impacto positivo de **R$ 50 bilhões** para as contas públicas no ano de 2027.",
+            "A proposta do governo federal, articulada pelo ministro Bruno Moretti, busca conter despesas públicas e elevar a arrecadação para estabilizar a dívida pública sem atingir políticas sociais."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O texto prevê um teto de **2%** para o avanço de despesas nos anos que exigirem contingenciamento e a aplicação de um corte linear de **10%** em subsídios concedidos a vários setores.",
+            "Empresas com créditos tributários, que hoje podem usá-los para abater impostos de origens diferentes, enfrentarão restrições e percentuais diferenciados definidos pelo governo.",
+            "Entidades como CNI, Fiesp e Fiemg apontaram em manifestações de 12 de novembro que o peso principal do ajuste financeiro recairá sobre os grandes empresários."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#politica",
+        "#economia",
+        "#brasil",
+        "#noticias"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Calendário econômico da semana: IPCA-15 e PCE nos EUA estarão no **radar dos mercados**",
+      "subtitulo": "",
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/12/calendario_F1-Digitals-Pixabay.jpg",
+      "fonte": "InfoMoney",
+      "data": "23/11/2026",
+      "link": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-ipca-15-e-pce-nos-eua-estarao-no-radar-dos-mercados/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A agenda econômica da semana no Brasil e nos EUA traz indicadores de inflação e atividade para calibrar a política monetária de ambos os países.",
+            "O IBGE publica na quinta-feira o IPCA-15 de novembro, com projeção do Bradesco de alta de **0,36%** puxada por alimentos e serviços.",
+            "Os núcleos de inflação no Brasil devem permanecer próximos de **4,5%** na variação trimestral anualizada, sendo monitorados pelo mercado e Banco Central."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Na sexta-feira, o Brasil divulga o IGP-M de novembro, a taxa de desemprego de outubro, a Nota de Crédito, o resultado primário e a Nota do Setor Externo.",
+            "Nos EUA, o destaque é o índice PCE de outubro, métrica de inflação preferida do Fed, com alta estimada de **0,3%** pelo Bradesco para o núcleo.",
+            "A segunda estimativa do PIB americano do terceiro trimestre será divulgada na quarta-feira para avaliar o crescimento da economia local."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Os EUA terão feriado de Ação de Graças na quinta-feira e funcionamento reduzido até as 15h, no horário de Brasília, na sexta-feira."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#economia",
+        "#varejo",
+        "#mercado",
+        "#negocios"
+      ],
+      "feed": false
+    }
+  ]
 }
