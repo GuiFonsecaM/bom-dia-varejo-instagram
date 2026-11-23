@@ -3,33 +3,33 @@
     {
       "tipo": "noticia",
       "categoria": "Varejo",
-      "manchete": "Vendedor de loja fazendo live: a China já testou, **e a lição vai além da câmera**",
-      "subtitulo": "Em 9 de novembro, na NeoConference em São Paulo, Alexandre Birman, CEO da Arezzo",
-      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/live-shop-em-loja-de-roupa_imagem-gerada-por-IA_ChatGPT_MercadoConsumo_2026.png",
-      "fonte": "Mercado & Consumo",
+      "manchete": "JPMorgan vê alívio no caixa do GPA (PCAR3) após renegociação **de dívida trabalhista**",
+      "subtitulo": "",
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2023/07/Sede-GPA.png",
+      "fonte": "InfoMoney",
       "data": "23/11/2026",
-      "link": "https://mercadoeconsumo.com.br/23/11/2026/noticias/vendedor-de-loja-fazendo-live-a-china-ja-testou-e-a-licao-vai-alem-da-camera/",
+      "link": "https://www.infomoney.com.br/mercados/jpmorgan-ve-alivio-no-caixa-do-gpa-pcar3-apos-renegociacao-de-divida-trabalhista/",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "Em 9 de novembro, na NeoConference em São Paulo, Alexandre Birman, CEO da Arezzo, anunciou um investimento pesado no TikTok Shop, alinhando-se à tendência global de colocar vendedores de lojas para realizar transmissões ao vivo.",
-            "No mercado chinês, a live feita pelas próprias marcas superou a dos influenciadores em categorias específicas; no Festival 618, marcas de beleza responderam por **50,7%** das vendas ao vivo, e a conta de natação no Douyin atingiu **41,9%** em junho de 2025."
+            "O Tribunal Regional do Trabalho da 2ª Região (TRT‑2) aprovou o Plano Especial de Pagamento Trabalhista (PEPT) do GPA (PCAR3), permitindo que a empresa quite **R$ 140** mi de passivos trabalhistas que venciam até o fim de 2027.",
+            "Com o novo acordo, o GPA poderá pagar o montante em até 72 parcelas mensais, ao longo de seis anos, com correção pela taxa Selic, diluindo o desembolso originalmente previsto para o próximo ano."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "O modelo de vendas por balconistas funciona melhor onde a marca já é conhecida, como beleza e calçados, enquanto produtos dependentes de descoberta continuam tendo melhor desempenho com influenciadores.",
-            "Durante o fechamento de shoppings no início de 2020, a rede de departamentos Intime elevou de 50 para **5 mil** o número de vendedores no Taobao Live em cerca de 20 dias, impulsionada por um sistema de comissão dupla sem teto."
+            "A medida reduz o pagamento previsto para 2027 de cerca de **R$ 140** mi para aproximadamente **R$ 35** mi, valor que corresponde a cerca de **20 %** da posição de caixa da companhia no terceiro trimestre de 2026, sem contar recursos do plano de recuperação extrajudicial.",
+            "A empresa ainda registra **R$ 2** bi em contingências de perda provável já provisionadas e **R$ 12** bi em contingências de perda possível, ainda sem provisão, indicando a extensão dos passivos herdados."
           ]
         },
         {
           "titulo": "Contexto",
           "topicos": [
-            "Desde 1º de fevereiro de 2026, a China exige que empresas que realizam lives com funcionários exibam razão social, validem dados dos apresentadores, guardem registros por três anos e assumam responsabilidade administrativa por falhas.",
-            "O TikTok Shop chegou ao Brasil em maio de 2025 e viu o volume diário de vendas crescer 102 vezes em um ano, com as lives avançando 161 vezes, enquanto a Natura realizou **52 mil** transmissões na plataforma em 2025, sendo **60%** por consultoras."
+            "Analistas do JPMorgan consideram o anúncio ligeiramente positivo, pois distribui o pagamento ao longo de seis anos, aliviando o fluxo de caixa de curto prazo enquanto o GPA executa seu plano de recuperação extrajudicial.",
+            "O GPA está sendo negociado a 5,7 vezes o EV/EBITDA estimado para 2027 e o JPMorgan mantém recomendação de \"underweight\" (abaixo da média do mercado) para as ações."
           ]
         }
       ],
@@ -43,72 +43,73 @@
       "feed": true
     },
     {
-      "tipo": "mundo",
-      "categoria": "Mundo",
-      "manchete": "Varejo e consumo no Japão **servem de inspiração**",
-      "subtitulo": "O varejo do Japão se transforma em plataformas integradas de serviços e ecossistemas",
-      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/toquio-envato.webp",
-      "fonte": "Mercado & Consumo",
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Controle da inflação é prioridade do Banco Central, **diz Galípolo**",
+      "subtitulo": "Gabriel Galípolo, presidente do Banco Central, declarou nesta segunda-feira (23), em evento do Itaú",
+      "imagem": "https://s2-g1.glbimg.com/7w07I3BSEGZ54DnUGFo9ztLaHiY=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/i/Z/9PAlFsQ5uar9JFBAGyxw/enq20241008012.jpg",
+      "fonte": "g1 Economia",
       "data": "23/11/2026",
-      "link": "https://mercadoeconsumo.com.br/23/11/2026/artigos/varejo-e-consumo-no-japao-servem-de-inspiracao/",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/galipolo-evento-itau.ghtml",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "O varejo do Japão se transforma em plataformas integradas de serviços e ecossistemas, antecipando tendências globais impulsionadas pelo envelhecimento populacional, redução da força de trabalho e avanço tecnológico.",
-            "Redes como o Aeon Group combinam supermercados, shoppings, serviços financeiros e saúde, enquanto a 7-Eleven une produtos, meios de pagamento, retirada de encomendas e alimentação pronta."
+            "Gabriel Galípolo, presidente do Banco Central, declarou nesta segunda-feira (23), em evento do Itaú, que o controle da inflação é a prioridade máxima da instituição.",
+            "A postura indica que o Banco Central pode manter ou subir a taxa básica de juros (Selic) para conter a inflação e atingir a meta, antecedendo a última reunião do Copom do ano.",
+            "Segundo Galípolo, a valorização do salário mínimo e a recomposição de renda melhoraram o poder de compra, mas também podem pressionar a inflação em uma economia próxima do pleno emprego."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "A rede de drogarias Welcia integra medicamentos, higiene, beleza e serviços farmacêuticos, além de oferecer atendimento móvel em áreas com menor acesso a estabelecimentos comerciais.",
-            "Lojas de departamentos japonesas como Takashimaya, Isetan Mitsukoshi e Daimaru destacam-se pelo conceito depachika nos subsolos, integrando gastronomia, alimentação saudável e refeições preparadas.",
-            "O programa Rakuten Points e empresas como o Rakuten Group conectam comércio eletrônico, serviços financeiros, banco, cartões, seguros, telecomunicações, turismo e entretenimento."
-          ]
-        },
-        {
-          "titulo": "Contexto",
-          "topicos": [
-            "A escassez de mão de obra no Japão torna a automação, a inteligência artificial e a tecnologia condições essenciais para sustentar operações, prever demanda e ampliar a produtividade."
+            "O chefe do BC defendeu que é viável manter programas sociais e ajustar regras de despesas que crescem com a arrecadação, gerando menos conflitos entre as políticas econômicas.",
+            "A instituição estuda ações para coibir o endividamento familiar excessivo e ampliar a transparência na concessão de crédito, conforme anunciado em outubro.",
+            "A partir de 31 de março de 2027, clientes vulneráveis ou com risco de endividamento só receberão ofertas ativas de crédito mediante autorização prévia e sem novos recursos."
           ]
         }
       ],
       "hashtags": [
         "#BomDiaVarejo",
-        "#mundo",
-        "#economiaglobal",
-        "#noticias",
-        "#internacional"
+        "#economia",
+        "#varejo",
+        "#mercado",
+        "#negocios"
       ],
       "feed": false
     },
     {
       "tipo": "noticia",
       "categoria": "Política",
-      "manchete": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de **R$ 50 bilhões em 2027**",
-      "subtitulo": "O presidente da Câmara, Hugo Motta (Republicanos-PB)",
-      "imagem": "https://s2-g1.glbimg.com/WuZ8ZxoaXhxiNGC5kIIQQDNZjg8=/2400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg",
-      "fonte": "g1 Política",
+      "manchete": "JBS investe **US$ 150 milhões** em fábricas de carne em Omã",
+      "subtitulo": "A JBS concluiu em 19 de novembro de 2026 um aporte de US$ 150 milhões para estabelecer uma joint venture em Omã",
+      "imagem": "https://static.poder360.com.br/uploads/2025/10/jbs-logo.jpeg",
+      "fonte": "Poder360",
       "data": "23/11/2026",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
+      "link": "https://www.poder360.com.br/poder-economia/jbs-investe-us-150-milhoes-em-fabricas-de-carne-em-oma/",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "O presidente da Câmara, Hugo Motta (Republicanos-PB), decidiu acelerar a votação de um projeto de ajuste fiscal do governo Lula para esta segunda-feira, dia atípico para votações na Casa.",
-            "O relator da matéria no Senado, Eduardo Braga (MDB-AM), estimou que as medidas trarão um impacto positivo de **R$ 50 bilhões** para as contas públicas no ano de 2027.",
-            "A proposta do governo federal, articulada pelo ministro Bruno Moretti, busca conter despesas públicas e elevar a arrecadação para estabilizar a dívida pública sem atingir políticas sociais."
+            "A JBS concluiu em 19 de novembro de 2026 um aporte de **US$ 150 milhões** para estabelecer uma joint venture em Omã, localizada na região do Oriente Médio.",
+            "A gigante brasileira de alimentos deterá **80%** do controle societário do negócio sediado na Holanda, enquanto a Oman Food Capital ficará com os **20%** restantes.",
+            "Os fundos aplicados vão finalizar uma planta integrada de aves da A’Namaa na cidade de Ibri e expandir o confinamento da Al Bashayer em Thumrait."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "O texto prevê um teto de **2%** para o avanço de despesas nos anos que exigirem contingenciamento e a aplicação de um corte linear de **10%** em subsídios concedidos a vários setores.",
-            "Empresas com créditos tributários, que hoje podem usá-los para abater impostos de origens diferentes, enfrentarão restrições e percentuais diferenciados definidos pelo governo.",
-            "Entidades como CNI, Fiesp e Fiemg apontaram em manifestações de 12 de novembro que o peso principal do ajuste financeiro recairá sobre os grandes empresários."
+            "Quando o complexo operar em plena capacidade, as duas unidades industriais produzirão anualmente **300 mil** toneladas de carne no território omanense.",
+            "A estrutura industrial terá capacidade diária para processar aproximadamente 1.000 bovinos, 5.000 cordeiros e **600 mil** frangos para o mercado interno e externo.",
+            "O empreendimento pretende transformar o país árabe em um centro exportador de alimentos halal e apoiar a estratégia econômica governamental Visão 2040."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "A ampliação da cadeia produtiva tem a expectativa de gerar mais de 3.000 postos de trabalho diretos em Omã ao longo do período de **5 anos**."
           ]
         }
       ],
@@ -122,45 +123,39 @@
       "feed": false
     },
     {
-      "tipo": "noticia",
-      "categoria": "Economia",
-      "manchete": "Calendário econômico da semana: IPCA-15 e PCE nos EUA estarão no **radar dos mercados**",
-      "subtitulo": "",
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/12/calendario_F1-Digitals-Pixabay.jpg",
-      "fonte": "InfoMoney",
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "UE abre investigação antitruste contra **Coca-Cola Europacific Partners**",
+      "subtitulo": "A Comissão Europeia iniciou uma investigação formal contra a Coca-Cola Europacific Partners (CCEP) nesta segunda-feira",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2025/08/coca-cola-2.jpg",
+      "fonte": "Mercado & Consumo",
       "data": "23/11/2026",
-      "link": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-ipca-15-e-pce-nos-eua-estarao-no-radar-dos-mercados/",
+      "link": "https://mercadoeconsumo.com.br/23/11/2026/economia/ue-abre-investigacao-antitruste-contra-coca-cola-europacific-partners/",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "A agenda econômica da semana no Brasil e nos EUA traz indicadores de inflação e atividade para calibrar a política monetária de ambos os países.",
-            "O IBGE publica na quinta-feira o IPCA-15 de novembro, com projeção do Bradesco de alta de **0,36%** puxada por alimentos e serviços.",
-            "Os núcleos de inflação no Brasil devem permanecer próximos de **4,5%** na variação trimestral anualizada, sendo monitorados pelo mercado e Banco Central."
+            "A Comissão Europeia iniciou uma investigação formal contra a Coca-Cola Europacific Partners (CCEP) nesta segunda-feira, 23, para apurar possível violação das regras de concorrência do bloco.",
+            "A investigação suspeita que a engarrafadora sediada no Reino Unido dificultou o comércio transfronteiriço e impediu clientes de negociar compras de refrigerantes e bebidas esportivas para múltiplos países.",
+            "A CCEP declarou que colabora integralmente com as autoridades europeias e reforçou que leva o direito da concorrência muito a sério em suas operações no continente."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "Na sexta-feira, o Brasil divulga o IGP-M de novembro, a taxa de desemprego de outubro, a Nota de Crédito, o resultado primário e a Nota do Setor Externo.",
-            "Nos EUA, o destaque é o índice PCE de outubro, métrica de inflação preferida do Fed, com alta estimada de **0,3%** pelo Bradesco para o núcleo.",
-            "A segunda estimativa do PIB americano do terceiro trimestre será divulgada na quarta-feira para avaliar o crescimento da economia local."
-          ]
-        },
-        {
-          "titulo": "Contexto",
-          "topicos": [
-            "Os EUA terão feriado de Ação de Graças na quinta-feira e funcionamento reduzido até as 15h, no horário de Brasília, na sexta-feira."
+            "Em paralelo, a Comissão Europeia concluiu preliminarmente que as ações da Temu contra a venda de produtos ilegais são insuficientes e podem violar as normas da UE.",
+            "A plataforma Temu, controlada pela PDD Holdings, enfrenta críticas por moderação de conteúdo fraca, foco incorreto na segurança e sanções ineficazes que permitem reincidência de vendedores.",
+            "Caso a infração seja confirmada, a Temu poderá receber uma multa de até **6%** do seu faturamento anual global, mas a empresa contestou a avaliação e busca uma solução amigável."
           ]
         }
       ],
       "hashtags": [
         "#BomDiaVarejo",
-        "#economia",
-        "#varejo",
-        "#mercado",
-        "#negocios"
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
       ],
       "feed": false
     }
