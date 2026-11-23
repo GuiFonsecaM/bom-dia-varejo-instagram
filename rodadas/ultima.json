@@ -2,71 +2,40 @@
   "posts": [
     {
       "tipo": "noticia",
-      "categoria": "Varejo",
-      "manchete": "JPMorgan vê alívio no caixa do GPA (PCAR3) após renegociação **de dívida trabalhista**",
-      "subtitulo": "",
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2023/07/Sede-GPA.png",
-      "fonte": "InfoMoney",
+      "categoria": "Economia",
+      "manchete": "Fazenda reduz previsão de crescimento da economia para **1,9% neste ano**",
+      "subtitulo": "O Ministério da Fazenda reduziu a projeção de crescimento do PIB brasileiro para 2024 de 2 % para 1,9 %",
+      "imagem": "https://s2-g1.glbimg.com/76i6QprhZeCGK-AWX-GLrKdOInY=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/E/uKFgSAQBay3gr0KEOaEg/design-sem-nome-2025-09-12t075949.442.webp",
+      "fonte": "g1 Economia",
       "data": "23/11/2026",
-      "link": "https://www.infomoney.com.br/mercados/jpmorgan-ve-alivio-no-caixa-do-gpa-pcar3-apos-renegociacao-de-divida-trabalhista/",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/fazenda-reduz-previsao-de-crescimento-da-economia-para-19percent-neste-ano.ghtml",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "O Tribunal Regional do Trabalho da 2ª Região (TRT‑2) aprovou o Plano Especial de Pagamento Trabalhista (PEPT) do GPA (PCAR3), permitindo que a empresa quite **R$ 140** mi de passivos trabalhistas que venciam até o fim de 2027.",
-            "Com o novo acordo, o GPA poderá pagar o montante em até 72 parcelas mensais, ao longo de seis anos, com correção pela taxa Selic, diluindo o desembolso originalmente previsto para o próximo ano."
+            "O Ministério da Fazenda reduziu a projeção de crescimento do PIB brasileiro para 2024 de **2 %** para **1,9 %**, conforme o Boletim Macrofiscal divulgado na segunda‑feira (23).",
+            "A queda reflete a desaceleração da indústria, cuja estimativa passou de **1,7 %** para **1,4 %**, e dos serviços, de **1,8 %** para **1,7 %**, enquanto a agropecuária subiu de **2,8 %** para **3,1 %**."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "A medida reduz o pagamento previsto para 2027 de cerca de **R$ 140** mi para aproximadamente **R$ 35** mi, valor que corresponde a cerca de **20 %** da posição de caixa da companhia no terceiro trimestre de 2026, sem contar recursos do plano de recuperação extrajudicial.",
-            "A empresa ainda registra **R$ 2** bi em contingências de perda provável já provisionadas e **R$ 12** bi em contingências de perda possível, ainda sem provisão, indicando a extensão dos passivos herdados."
+            "A revisão foi motivada por desempenho fraco da indústria de transformação no terceiro trimestre, pressionada por crédito caro, juros altos e incertezas eleitorais, além da perda de fôlego dos indicadores mensais de serviços.",
+            "O governo ainda prevê recuperação moderada no fim do ano, sustentada por um mercado de trabalho resiliente, aumento do Bolsa Família e efeitos positivos da proibição das apostas esportivas."
           ]
         },
         {
           "titulo": "Contexto",
           "topicos": [
-            "Analistas do JPMorgan consideram o anúncio ligeiramente positivo, pois distribui o pagamento ao longo de seis anos, aliviando o fluxo de caixa de curto prazo enquanto o GPA executa seu plano de recuperação extrajudicial.",
-            "O GPA está sendo negociado a 5,7 vezes o EV/EBITDA estimado para 2027 e o JPMorgan mantém recomendação de \"underweight\" (abaixo da média do mercado) para as ações."
-          ]
-        }
-      ],
-      "hashtags": [
-        "#BomDiaVarejo",
-        "#varejo",
-        "#supermercado",
-        "#atacarejo",
-        "#varejoalimentar"
-      ],
-      "feed": true
-    },
-    {
-      "tipo": "noticia",
-      "categoria": "Economia",
-      "manchete": "Controle da inflação é prioridade do Banco Central, **diz Galípolo**",
-      "subtitulo": "Gabriel Galípolo, presidente do Banco Central, declarou nesta segunda-feira (23), em evento do Itaú",
-      "imagem": "https://s2-g1.glbimg.com/7w07I3BSEGZ54DnUGFo9ztLaHiY=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/i/Z/9PAlFsQ5uar9JFBAGyxw/enq20241008012.jpg",
-      "fonte": "g1 Economia",
-      "data": "23/11/2026",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/galipolo-evento-itau.ghtml",
-      "materia": "",
-      "slides": [
-        {
-          "titulo": "O que aconteceu",
-          "topicos": [
-            "Gabriel Galípolo, presidente do Banco Central, declarou nesta segunda-feira (23), em evento do Itaú, que o controle da inflação é a prioridade máxima da instituição.",
-            "A postura indica que o Banco Central pode manter ou subir a taxa básica de juros (Selic) para conter a inflação e atingir a meta, antecedendo a última reunião do Copom do ano.",
-            "Segundo Galípolo, a valorização do salário mínimo e a recomposição de renda melhoraram o poder de compra, mas também podem pressionar a inflação em uma economia próxima do pleno emprego."
+            "A projeção de crescimento do PIB para 2025 (próximo ano) foi reduzida de **2,3 %** para **1,8 %**, considerando juros e custo de crédito elevados por mais tempo e queda gradual da Selic.",
+            "A estimativa de inflação (IPCA) foi elevada de **4,9 %** para **5,3 %** devido ao IPCA de setembro acima das expectativas, impulsionado por alimentação, serviços, fim das subvenções ao diesel e desonerações de etanol e gasolina."
           ]
         },
         {
-          "titulo": "Mais detalhes",
+          "titulo": "O que vem agora",
           "topicos": [
-            "O chefe do BC defendeu que é viável manter programas sociais e ajustar regras de despesas que crescem com a arrecadação, gerando menos conflitos entre as políticas econômicas.",
-            "A instituição estuda ações para coibir o endividamento familiar excessivo e ampliar a transparência na concessão de crédito, conforme anunciado em outubro.",
-            "A partir de 31 de março de 2027, clientes vulneráveis ou com risco de endividamento só receberão ofertas ativas de crédito mediante autorização prévia e sem novos recursos."
+            "Desde o início de 2025 o Brasil adota meta contínua de inflação de **3 %** com tolerância entre **1,5 %** e **4,5 %**; a projeção do IPCA para 2027 subiu de **3,8 %** para **4,5 %**, influenciada por expectativas altas, depreciação cambial e aumento do ICMS sobre combustíveis."
           ]
         }
       ],
@@ -77,39 +46,70 @@
         "#mercado",
         "#negocios"
       ],
-      "feed": false
+      "feed": true
     },
     {
       "tipo": "noticia",
-      "categoria": "Política",
-      "manchete": "JBS investe **US$ 150 milhões** em fábricas de carne em Omã",
-      "subtitulo": "A JBS concluiu em 19 de novembro de 2026 um aporte de US$ 150 milhões para estabelecer uma joint venture em Omã",
-      "imagem": "https://static.poder360.com.br/uploads/2025/10/jbs-logo.jpeg",
-      "fonte": "Poder360",
+      "categoria": "Varejo",
+      "manchete": "Que dia é a Black Friday 2026? Veja a data oficial e dicas **para aproveitar promoções**",
+      "subtitulo": "A edição de 2026 da Black Friday no Brasil ocorrerá na sexta-feira, dia 27 de novembro",
+      "imagem": "",
+      "fonte": "g1 Economia",
       "data": "23/11/2026",
-      "link": "https://www.poder360.com.br/poder-economia/jbs-investe-us-150-milhoes-em-fabricas-de-carne-em-oma/",
+      "link": "https://g1.globo.com/guia/guia-de-compras/presentes/que-dia-e-a-black-friday-2026-veja-a-data-oficial-e-dicas-para-aproveitar-promocoes.ghtml",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "A JBS concluiu em 19 de novembro de 2026 um aporte de **US$ 150 milhões** para estabelecer uma joint venture em Omã, localizada na região do Oriente Médio.",
-            "A gigante brasileira de alimentos deterá **80%** do controle societário do negócio sediado na Holanda, enquanto a Oman Food Capital ficará com os **20%** restantes.",
-            "Os fundos aplicados vão finalizar uma planta integrada de aves da A’Namaa na cidade de Ibri e expandir o confinamento da Al Bashayer em Thumrait."
+            "A edição de 2026 da Black Friday no Brasil ocorrerá na sexta-feira, dia 27 de novembro, mantendo a tradição da última sexta-feira do mês.",
+            "Uma ferramenta de monitoramento do g1 acompanha, a cada dia útil, os preços de 74 produtos observados desde agosto para identificar descontos reais.",
+            "Pesquisa do Google de agosto aponta que **48%** dos clientes querem chegar com lista fechada, e **41%** planejam gastar mais do que no ano anterior."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "Quando o complexo operar em plena capacidade, as duas unidades industriais produzirão anualmente **300 mil** toneladas de carne no território omanense.",
-            "A estrutura industrial terá capacidade diária para processar aproximadamente 1.000 bovinos, 5.000 cordeiros e **600 mil** frangos para o mercado interno e externo.",
-            "O empreendimento pretende transformar o país árabe em um centro exportador de alimentos halal e apoiar a estratégia econômica governamental Visão 2040."
+            "O levantamento mostra que **60%** dos entrevistados veem o evento como principal chance para itens de alto valor, e **15%** já usam inteligência artificial para rastrear preços.",
+            "Especialistas orientam acompanhar os valores com antecedência e registrar capturas de tela com data e hora para denunciar aumentos maquiados ao Procon-SP.",
+            "Para evitar golpes, recomenda-se verificar a reputação em sites como Reclame Aqui, conferir CNPJ da loja e desconfiar de ofertas exageradas com Pix ou boleto."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#varejo",
+        "#supermercado",
+        "#atacarejo",
+        "#varejoalimentar"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Comissão aprova projeto que proíbe destruir produtos não perecíveis que foram devolvidos **ou não vendidos**",
+      "subtitulo": "A Comissão de Desenvolvimento Econômico da Câmara dos Deputados aprovou o Projeto de Lei 478/20",
+      "imagem": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/imagem-padrao.jpg",
+      "fonte": "Agência Câmara",
+      "data": "23/11/2026",
+      "link": "https://www.camara.leg.br/noticias/1321739-comissao-aprova-projeto-que-proibe-destruir-produtos-nao-pereciveis-que-foram-devolvidos-ou-nao-vendidos",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A Comissão de Desenvolvimento Econômico da Câmara dos Deputados aprovou o Projeto de Lei 478/20, apresentado pelo ex‑deputado Denis Bezerra (CE), que proíbe a destruição de produtos não perecíveis devolvidos ou não vendidos.",
+            "A norma alcança fabricantes, importadores, comerciantes e plataformas de comércio eletrônico, excetuando apenas os produtos que possam representar risco à saúde ou à segurança.",
+            "O projeto prevê multa equivalente ao preço de mercado de cada produto destruído para quem descumprir a proibição."
           ]
         },
         {
-          "titulo": "Contexto",
+          "titulo": "Mais detalhes",
           "topicos": [
-            "A ampliação da cadeia produtiva tem a expectativa de gerar mais de 3.000 postos de trabalho diretos em Omã ao longo do período de **5 anos**."
+            "O relator Gilson Daniel (Pode‑ES) recomendou a aprovação sem alterações, alegando que a medida pode alinhar o Brasil aos padrões internacionais de economia circular, citando a França como referência.",
+            "Com a aprovação na comissão, o PL seguirá para análise nas comissões de Indústria, Comércio e Serviços e de Constituição e Justiça e Cidadania.",
+            "Para se tornar lei, a proposta ainda precisa ser aprovada em votação pelos deputados e pelos senadores."
           ]
         }
       ],
@@ -125,28 +125,28 @@
     {
       "tipo": "mundo",
       "categoria": "Mundo",
-      "manchete": "UE abre investigação antitruste contra **Coca-Cola Europacific Partners**",
-      "subtitulo": "A Comissão Europeia iniciou uma investigação formal contra a Coca-Cola Europacific Partners (CCEP) nesta segunda-feira",
-      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2025/08/coca-cola-2.jpg",
-      "fonte": "Mercado & Consumo",
+      "manchete": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a **R$ 6**",
+      "subtitulo": "Nesta segunda-feira (23/11), o dólar atingiu R$ 6 no Brasil pela primeira vez desde abril de 2025",
+      "imagem": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/79dc/live/ed3d37e0-e778-11f1-8f1d-19326d289ceb.jpg",
+      "fonte": "BBC News Brasil",
       "data": "23/11/2026",
-      "link": "https://mercadoeconsumo.com.br/23/11/2026/economia/ue-abre-investigacao-antitruste-contra-coca-cola-europacific-partners/",
+      "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "A Comissão Europeia iniciou uma investigação formal contra a Coca-Cola Europacific Partners (CCEP) nesta segunda-feira, 23, para apurar possível violação das regras de concorrência do bloco.",
-            "A investigação suspeita que a engarrafadora sediada no Reino Unido dificultou o comércio transfronteiriço e impediu clientes de negociar compras de refrigerantes e bebidas esportivas para múltiplos países.",
-            "A CCEP declarou que colabora integralmente com as autoridades europeias e reforçou que leva o direito da concorrência muito a sério em suas operações no continente."
+            "Nesta segunda-feira (23/11), o dólar atingiu **R$ 6** no Brasil pela primeira vez desde abril de 2025, impulsionado por uma combinação de fatores internos e externos.",
+            "Desde 25 de outubro, quando a cotação era de **R$ 4,97,** o real perdeu mais de **16%** de seu valor frente à moeda americana, liderando as perdas entre as 20 principais moedas globais.",
+            "O Projeto de Lei Complementar (PLP) 299/2026, de autoria de Bruno Moretti, foi aprovado pelo Senado em 18/11 e tem votação prevista na Câmara para esta segunda-feira (23/11)."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "Em paralelo, a Comissão Europeia concluiu preliminarmente que as ações da Temu contra a venda de produtos ilegais são insuficientes e podem violar as normas da UE.",
-            "A plataforma Temu, controlada pela PDD Holdings, enfrenta críticas por moderação de conteúdo fraca, foco incorreto na segurança e sanções ineficazes que permitem reincidência de vendedores.",
-            "Caso a infração seja confirmada, a Temu poderá receber uma multa de até **6%** do seu faturamento anual global, mas a empresa contestou a avaliação e busca uma solução amigável."
+            "O pacote fiscal do governo busca cortar despesas e aumentar receitas, com impacto estimado entre **R$ 43 bilhões** e **R$ 54 bilhões**, focado no orçamento do próximo ano.",
+            "No cenário externo, o Banco Central dos Estados Unidos (Fed) pode manter juros elevados devido à inflação persistente, enquanto commodities como o petróleo Brent caíram a **US$ 89,36** em 22/11.",
+            "O Boletim Focus divulgado nesta segunda-feira mostra que o mercado previa o fechamento do dólar a **R$ 5,55** no ano, valor que já foi superado em mais de **7%**, após projeção de **R$ 5,13** há quatro semanas."
           ]
         }
       ],
