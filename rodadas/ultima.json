@@ -1,3 +1,171 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "tipo": "noticia",
+      "categoria": "Varejo",
+      "manchete": "“Menos é mais”: a revisão do sortimento pode gerar **milhões de reais**",
+      "subtitulo": "Líderes e especialistas apontam que os próximos anos exigirão maior eficiência operacional",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/supermercado-organizado-envato.webp",
+      "fonte": "Mercado & Consumo",
+      "data": "24/11/2026",
+      "link": "https://mercadoeconsumo.com.br/24/11/2026/artigos/menos-e-mais-a-revisao-do-sortimento-pode-gerar-milhoes-de-reais/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Líderes e especialistas apontam que os próximos anos exigirão maior eficiência operacional, disciplina de execução e priorização de esforços do varejo e das indústrias de bens de consumo diante de desafios como a reforma tributária, a nova escala de trabalho, o custo de capital de giro e o avanço da inteligência artificial."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O sortimento de produtos surge como elemento crítico para as operações, com o varejo buscando maior assertividade na oferta e eficiência no capital de giro, enquanto indústrias trabalham em conjunto com clientes para racionalizar o mix usando dados de sell-out por loja, por SKU e inteligência artificial agêntica.",
+            "A racionalização do mix não significa apenas eliminar SKUs, mas alinhar as escolhas à proposta de valor e ao posicionamento estratégico de cada empresa para se diferenciar perante o consumidor."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Um exemplo citado é a rede americana Costco, que opera com cerca de **4 mil** SKUs frente aos até **100 mil** SKUs de concorrentes, obtendo altos volumes, poder de negociação, custos baixos, alta previsibilidade, menor ruptura e alto giro de mercadorias.",
+            "Para o ano de 2025, a Costco projetou um faturamento de USD **270 bilhões**, representando um crescimento de **8%** em relação ao ano anterior em um mercado competitivo, além de um faturamento por SKU de USD **67,5 milhões**, também com alta de **8%**."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#varejo",
+        "#supermercado",
+        "#atacarejo",
+        "#varejoalimentar"
+      ],
+      "feed": true
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Entenda projeto de ajuste fiscal de até **R$ 56 bilhões** para governo Lula aprovado pela Câmara",
+      "subtitulo": "A Câmara dos Deputados aprovou, em 23 de março, o projeto de lei que institui um ajuste fiscal de até R$ 56 bi",
+      "imagem": "https://s2-g1.glbimg.com/IBVwhdSq-w-55Pzl5GDWD9mUFeI=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/F/NANIAMTZe0eEb3soFNPg/55649391240-f2708adb60-k-1-.jpg",
+      "fonte": "g1 Política",
+      "data": "24/11/2026",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/entenda-projeto-de-ajuste-fiscal-de-ate-r-56-bilhoes-para-governo-lula-aprovado-pela-camara.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A Câmara dos Deputados aprovou, em 23 de março, o projeto de lei que institui um ajuste fiscal de até **R$ 56** bi, conforme o senador Eduardo Braga (MDB‑AM), após o Senado concluir a votação em 19 de março.",
+            "O ajuste inclui corte linear de benefícios tributários: **10 %** já aplicados até o fim de 2025, gerando **R$ 19,8** bi, e mais **10 %** previstos, totalizando **20 %** de redução nos dois últimos anos."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O texto autoriza o Executivo a limitar a compensação de créditos tributários, proibindo a compensação cruzada e estabelecendo percentuais diferentes conforme valor ou tipo de crédito, sem definir prazo de devolução, gerando críticas de 57 entidades do setor produtivo.",
+            "Até 2030, a receita do imposto sobre exportação de petróleo deixará de compor a base de cálculo do piso da saúde, medida que já vigora temporariamente em 2026 e pode reduzir em cerca de **R$ 9** bi os recursos destinados à saúde em 2027."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "O projeto altera a regra de crescimento das despesas públicas, que antes permitia aumento acima da inflação entre **0,6 %** e **2,5 %** ao ano, fixando um teto de **2 %** nos anos em que for necessário cortar gastos para cumprir a meta fiscal.",
+            "O presidente da Câmara, Hugo Motta (Republicanos‑PB), convocou sessão extraordinária em 23 de março para analisar o texto, apesar de ser dia normalmente sem votação nos plenários do Congresso."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#politica",
+        "#economia",
+        "#brasil",
+        "#noticias"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Dólar a **R$ 6**: o que explica a disparada da moeda e o que pode frear novas altas?",
+      "subtitulo": "O dólar americano voltou a se aproximar da marca de R$ 6 no Brasil",
+      "imagem": "https://s2-g1.glbimg.com/tUPsGgoO28BJRkjplvlDrkQiy74=/6016x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/W/pNqFkwSSG90RoeSZ80Pg/drf20241217001.jpg",
+      "fonte": "g1 Economia",
+      "data": "24/11/2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-a-r-6-o-que-explica-a-disparada-da-moeda-e-o-que-pode-frear-novas-altas.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "O dólar americano voltou a se aproximar da marca de **R$ 6** no Brasil, encerrando cotado a **R$ 5,9262** nesta segunda-feira (23), após acumular uma alta de quase **19%** em pouco mais de um mês.",
+            "A projeção central do boletim Focus para o dólar no final de 2026 subiu de **R$ 5,20,** em 2 de outubro, para **R$ 5,55,** superando as expectativas iniciais dos analistas econômicos.",
+            "A disparada foi impulsionada pela reeleição de Lula e pela desconfiança dos investidores quanto à capacidade do governo de controlar o crescimento da dívida e das contas públicas."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Entre 23 de outubro e esta segunda-feira (23), o dólar encareceu **18,7%** no Brasil, superando o avanço de cerca de **2,5%** do índice global DXY e evidenciando fortes pressões internas.",
+            "Para conter a tensão no mercado, o Banco Central vendeu **US$ 1 bilhão** de suas reservas em 19 de dezembro (cerca de **R$ 5,93 bilhões**), montante retirado de reservas que somavam **US$ 363,6 bilhões**."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Especialistas apontam que a queda sustentável da moeda depende da aprovação integral do pacote fiscal na Câmara, de definições na equipe econômica e de medidas concretas de revisão de gastos."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#economia",
+        "#varejo",
+        "#mercado",
+        "#negocios"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "'50 Best' divulga ranking ampliado dos melhores restaurantes da América Latina; **Brasil emplaca 6**",
+      "subtitulo": "",
+      "imagem": "https://s2-g1.glbimg.com/SCfKSJfsbJHBZlRAxBCWg0EYG5g=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/w/UwJczsQBuwJnr1gnXFXA/fotojet-2026-11-23t185345.302.jpg",
+      "fonte": "g1 Mundo",
+      "data": "24/11/2026",
+      "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/23/50-best-divulga-ranking-ampliado-dos-melhores-restaurantes-da-america-latina-brasil-emplaca-6.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Em 23 de março, a organização \"50 Best\" divulgou a lista ampliada (posições 51 a 100) dos melhores restaurantes da América Latina, incluindo seis estabelecimentos brasileiros.",
+            "O ranking principal, que cobre os 1º ao 50º colocados, será anunciado em 1º de dezembro durante um evento ao vivo em Guadalajara, México.",
+            "Os restaurantes brasileiros que entraram na lista ampliada são: 59º Origem (Salvador), 75º Oteque (Rio de Janeiro), 76º D.O.M. (São Paulo), 86º A Casa do Porco (São Paulo), 93º Mocotó (São Paulo) e 95º Ocyá (Leblon, Rio de Janeiro)."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Origem, comandado pelos chefs Fabrício Lemos e Lisiane Arouca, apresenta um menu degustação inspirado nos cinco biomas da Bahia, usando técnicas de defumação e texturas marcantes em ambiente minimalista.",
+            "Oteque, do chef Alberto Landgraf, funciona em uma casa dos anos 1930 em Botafogo e oferece um menu degustação sazonal focado em peixes e frutos do mar, com apenas seis mesas no salão principal e cozinha aberta."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "A Casa do Porco (chef Jefferson Rueda) destaca o aproveitamento integral do porco com pratos criativos; Mocotó, fundado em 1973 e agora dirigido por Rodrigo Oliveira, mantém clássicos da culinária nordestina…"
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
+      ],
+      "feed": false
+    }
+  ]
 }
