@@ -3,27 +3,28 @@
     {
       "tipo": "noticia",
       "categoria": "Varejo",
-      "manchete": "Mercado&Consumo é finalista do Brasil **Publisher Awards 2026**",
-      "subtitulo": "A Mercado&Consumo foi indicada como finalista para a edição de 2026 do Brasil Publisher Awards",
-      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/finalistas_brasil_pubiisher_awards_divulgacao.webp",
+      "manchete": "Quase **38%** das PMEs esperam aumentar vendas na Black Friday, aponta Serasa",
+      "subtitulo": "",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/vendas_varejo_lojista_pme_envato.webp",
       "fonte": "Mercado & Consumo",
       "data": "24/11/2026",
-      "link": "https://mercadoeconsumo.com.br/24/11/2026/economia/mercadoconsumo-e-finalista-do-brasil-publisher-awards-2026/",
+      "link": "https://mercadoeconsumo.com.br/24/11/2026/black-friday/quase-38-das-pmes-esperam-aumentar-vendas-na-black-friday-aponta-serasa/",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "A Mercado&Consumo foi indicada como finalista para a edição de 2026 do Brasil Publisher Awards, uma premiação organizada pela Associação Nacional do Mercado e Indústria Digital (AnaMid) que destaca veículos e produtores de conteúdo digital no Brasil.",
-            "O portal concorre na categoria \"Melhor Site de Economia e/ou Finanças\", disputando o prêmio ao lado dos finalistas BeInCrypto e DataSebrae."
+            "Um levantamento da Serasa Experian divulgado em outubro de 2026 indica que **37,6%** das pequenas e médias empresas brasileiras projetam ampliar suas vendas durante a Black Friday.",
+            "Entre as PMEs otimistas com a data, **18,5%** estimam um avanço de até **10%** nas vendas, **10,5%** esperam alta entre **10%** e **30%**, e **8,6%** preveem crescimento superior a **30%**.",
+            "O principal obstáculo apontado por **30,8%** dos negócios para aproveitar a data é a limitação de orçamento e os custos elevados para investir em campanhas de marketing."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "Esta é a segunda vez consecutiva que a marca alcança a final do prêmio, refletindo a consolidação de seu trabalho na geração de conteúdo especializado sobre varejo, consumo, tecnologia e negócios.",
-            "A premiação deste ano tem como foco central a temática \"Confiança digital: todos no combate à desinformação na web\", destacando a relevância da produção de informações seguras e de credibilidade no ambiente digital.",
-            "A divulgação oficial dos vencedores e a cerimônia de premiação estão marcadas para o dia 7 de dezembro, na cidade de São Paulo."
+            "Outros desafios citados foram a concorrência com outros negócios por **23,6%**, a dificuldade de alcançar o público certo por **23,1%** e a cautela dos consumidores com gastos por **22,6%**.",
+            "A Serasa Experian lançou um checklist gratuito com 13 orientações sobre finanças, estoque, marketing, logística e segurança para auxiliar na preparação dos empreendedores.",
+            "A pesquisa da Serasa ouviu 1.072 pequenas e médias empresas de todo o país, com forte presença de negócios dos setores de comércio, serviços e de pequeno porte."
           ]
         }
       ],
@@ -35,85 +36,6 @@
         "#varejoalimentar"
       ],
       "feed": true
-    },
-    {
-      "tipo": "noticia",
-      "categoria": "Política",
-      "manchete": "Projeto de ajuste fiscal segue para **a sanção presidencial**",
-      "subtitulo": "A Câmara dos Deputados aprovou em 23/11/2026, com 353 votos favoráveis e 128 contrários",
-      "imagem": "https://www12.senado.leg.br/noticias/materias/2026/11/24/projeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial/ajuste_fiscal_camara_01.jpg",
-      "fonte": "Agência Senado",
-      "data": "24/11/2026",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/projeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial",
-      "materia": "",
-      "slides": [
-        {
-          "titulo": "O que aconteceu",
-          "topicos": [
-            "A Câmara dos Deputados aprovou em 23/11/2026, com 353 votos favoráveis e 128 contrários, o projeto de lei complementar (PLP 299/2026) de ajuste fiscal. O texto seguiu para a sanção da Presidência da República sem alterações em relação ao Senado.",
-            "A meta de superávit primário para 2027 é de **R$ 18,7 bilhões**, após deduções de **R$ 64,7 bilhões** permitidas pelo arcabouço fiscal sobre a meta nominal inicial de **R$ 83,4 bilhões** (**0,5%** do PIB). Em 2026, o governo fechará com déficit de menos **R$ 52 bilhões**."
-          ]
-        },
-        {
-          "titulo": "Mais detalhes",
-          "topicos": [
-            "A partir de 2027, se o relatório bimestral exigir, o governo poderá travar despesas além da Lei de Responsabilidade Fiscal, limitando o crescimento real anual dos gastos a **2%**, em vez dos **2,5%** atuais. O contingenciamento afeta apenas o Poder Executivo.",
-            "O projeto autoriza o governo a deduzir da meta fiscal até **R$ 10,5 bilhões** em despesas de 2026 com subvenções ao óleo diesel para conter alta provocada pela guerra entre Estados Unidos e Irã. Os subsídios foram pagos com receitas extraordinárias do petróleo."
-          ]
-        },
-        {
-          "titulo": "Contexto",
-          "topicos": [
-            "Para aumentar a arrecadação, o projeto restringe a compensação de créditos tributários de causas ganhas na Justiça, gerando economia estimada entre **R$ 12,8 bilhões** e **R$ 18,3 bilhões**. A compensação cruzada, como usar PIS e Cofins para pagar IRPJ, será dificultada.",
-            "A redução de incentivos e deduções tributárias passará de **10%** para **20%**, gerando uma arrecadação extra de cerca de **R$ 15 bilhões**. Com isso, empresas com benefícios previstos em lei contarão apenas com **80%** do valor dedutível a partir de agora."
-          ]
-        }
-      ],
-      "hashtags": [
-        "#BomDiaVarejo",
-        "#politica",
-        "#economia",
-        "#brasil",
-        "#noticias"
-      ],
-      "feed": false
-    },
-    {
-      "tipo": "mundo",
-      "categoria": "Mundo",
-      "manchete": "El Niño provoca secas severas no Pacífico, ameaça causar inundações nos EUA **e preocupa economistas**",
-      "subtitulo": "O fenômeno climático El Niño, impulsionado pelo aquecimento anormal das águas do Oceano Pacífico",
-      "imagem": "https://s2-g1.glbimg.com/1EV9vhgyK1LpH_2GKgWAjpC_YTQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/g/gSWcTzRJKtCrdN3a9DVg/afp-20261121-d89h3rd-v5-midres-topshotecuadorweatherfloodelnino.jpg",
-      "fonte": "g1 Mundo",
-      "data": "24/11/2026",
-      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/24/el-nino-provoca-secas-severas-no-pacifico-ameaca-causar-inundacoes-nos-eua-e-preocupa-economistas.ghtml",
-      "materia": "",
-      "slides": [
-        {
-          "titulo": "O que aconteceu",
-          "topicos": [
-            "O fenômeno climático El Niño, impulsionado pelo aquecimento anormal das águas do Oceano Pacífico, atinge intensidade excepcional neste ano e preocupa economistas com possíveis prejuízos globais.",
-            "Nas ilhas Fiji, o primeiro-ministro Sitiveni Rabuka decretou estado de desastre nacional, enquanto Tonga declarou emergência devido às secas severas associadas ao fenômeno.",
-            "As medidas de emergência no Pacífico autorizam racionamento de água, evacuações e realocação de recursos públicos, com dezenas de caminhões enviados para abastecer as comunidades."
-          ]
-        },
-        {
-          "titulo": "Mais detalhes",
-          "topicos": [
-            "Em San Francisco, na Califórnia, autoridades preparam-se para marés altas que podem causar inundações de quase um metro em áreas costeiras, atingindo o pico na quarta-feira (25).",
-            "A projeção da Oxford Economics indica que um episódio intenso do El Niño pode reduzir o PIB mundial em **0,6%** em 2027 e em **0,8%** em 2028, atuando como um choque negativo de oferta.",
-            "A NOAA reduziu para cerca de **60%** a probabilidade de um evento recorde do El Niño entre outubro de 2026 e janeiro de 2027, após projeções anteriores de **83%** e **70%**."
-          ]
-        }
-      ],
-      "hashtags": [
-        "#BomDiaVarejo",
-        "#mundo",
-        "#economiaglobal",
-        "#noticias",
-        "#internacional"
-      ],
-      "feed": false
     },
     {
       "tipo": "noticia",
@@ -154,6 +76,85 @@
         "#varejo",
         "#mercado",
         "#negocios"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Senado celebra **12 anos** da Febraf, entidade de fomento ao comércio",
+      "subtitulo": "",
+      "imagem": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-celebra-12-anos-da-febraf-entidade-de-fomento-ao-comercio/20261124_01160e.jpg",
+      "fonte": "Agência Senado",
+      "data": "24/11/2026",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-celebra-12-anos-da-febraf-entidade-de-fomento-ao-comercio",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "O Senado realizou uma sessão especial nesta terça-feira (24) para celebrar os **12 anos** da Federação Brasileira de Fomento Comercial, Serviços e Atividades Financeiras (Febraf). A entidade obteve seu registro sindical em 24 de fevereiro de 2014.",
+            "A sessão comemorativa foi requerida pelos senadores Laércio Oliveira (PP-SE), Esperidião Amin (PP-SC), Flávio Arns (PSB-PR), Soraya Thronicke (PSB-MS), Ciro Nogueira (PP-PI) e Dr. Hiran (PP-RR)."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O mercado de recebíveis movimentou **R$ 300 bilhões** em 2025, atendeu cerca de **300 mil** micro, pequenas e médias empresas e sustentou **6 milhões** de empregos diretos e indiretos, segundo dados da federação.",
+            "Fundada em 1982 como Anfac por Luiz Lemos Leite, de **97 anos** e pioneiro do factoring no Brasil, a Febraf reúne sindicatos e associações de fomento comercial, recuperação de crédito, meios de pagamento e mercado imobiliário."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "A federação planeja incorporar fintechs e fundos de investimento em direitos creditórios (FIDCs) e criou dois observatórios, focados no ambiente digital e na área tributária, para acompanhar alterações legislativas.",
+            "Durante o evento, parlamentares e dirigentes debateram os impactos da reforma tributária com início da implantação integral em 2027, destacando mudanças na cobrança da CBS, o fim do PIS e da Cofins, e reflexos no Simples Nacional."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#politica",
+        "#economia",
+        "#brasil",
+        "#noticias"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "Criminosos fazem 24 reféns em destino turístico na Colômbia; vídeo mostra **homens fortemente armados**",
+      "subtitulo": "Criminosos armados fizeram 24 reféns em um supermercado em Cartagena, na Colômbia",
+      "imagem": "https://s2-g1.glbimg.com/R2Ps3JiWIu5YDcNFV5zGNwUqsLY=/6000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/6/Blnpj8S5GVAwY2zdzRVA/2026-11-24t165936z-505671828-rc25uoaxizzj-rtrmadp-3-colombia-hostages.jpg",
+      "fonte": "g1 Mundo",
+      "data": "24/11/2026",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/24/assaltantes-fazem-varios-refens-em-supermercado-em-cartagena-na-colombia.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Criminosos armados fizeram 24 reféns em um supermercado em Cartagena, na Colômbia, após uma tentativa de assalto frustrada em 24 de novembro de 2026.",
+            "Cinco mulheres idosas e um homem foram libertados durante as negociações com a polícia, e a imprensa local informou que não há feridos.",
+            "Os sequestradores exigem o pagamento de cerca de **7 bilhões** de pesos colombianos, equivalentes a aproximadamente **R$ 9,5 milhões**, e livre passagem até Barranquilla, situada a 130 km de Cartagena."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "As chegadas de voos no aeroporto de Cartagena chegaram a ser suspensas por causa do incidente, mas já foram reativadas pela agência de aviação do país.",
+            "O presidente Abelardo de la Espriella mobilizou as principais forças policiais e unidades especiais da Colômbia para lidar com a crise na cidade turística.",
+            "O sequestro coincide com os dez anos do acordo de paz com as Farc e com a explosão de um carro-bomba em Villavicencio na noite de segunda-feira (23), que deixou 25 feridos."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
       ],
       "feed": false
     }
