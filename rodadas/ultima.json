@@ -1,3 +1,169 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "tipo": "noticia",
+      "categoria": "Varejo",
+      "manchete": "Black Friday: Shopee reúne cinco dicas para fazer compras online **com mais segurança**",
+      "subtitulo": "",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/MC2026_divulgacao_shopee_CD_blackdriday.jpg",
+      "fonte": "Mercado & Consumo",
+      "data": "25/11/2026",
+      "link": "https://mercadoeconsumo.com.br/25/11/2026/black-friday/black-friday-shopee-reune-cinco-dicas-para-fazer-compras-online-com-mais-seguranca/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A Shopee divulgou cinco recomendações de segurança para os consumidores realizarem compras online durante a Black Friday, data oficializada para 27 de novembro.",
+            "No e-commerce brasileiro, a Black Friday de 2026 deve movimentar **R$ 13,3 bilhões** entre os dias 26 e 29 de novembro, representando alta de **20,7%** segundo a Confi Neotrust.",
+            "Pesquisa interna da Shopee aponta que **86%** dos entrevistados pretendem comprar na data em 2026, com intenção de gasto de **R$ 764,** valor **20%** superior ao de 2025."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "A plataforma orienta verificar a reputação dos vendedores consultando avaliações, histórico de vendas e selos como Loja Oficial ou Vendedor Indicado.",
+            "Todas as conversas e pagamentos devem ocorrer exclusivamente dentro do aplicativo, desconsiderando Pix ou transferências externas e denunciando abordagens fora da plataforma.",
+            "O recurso Garantia Shopee retém o valor pago até que as condições da compra sejam atendidas, permitindo solicitar reembolso ou devolução conforme os prazos aplicáveis."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "A empresa recomenda verificar descrições de produtos, frete, homologação da Anatel e acompanhar entregas por modalidades como Full, Entrega Rápida e o serviço Turbo."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#varejo",
+        "#supermercado",
+        "#atacarejo",
+        "#varejoalimentar"
+      ],
+      "feed": true
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Reforma tributária e fim da escala 6x1 podem pressionar inflação em 2027; BC e equipe **econômica monitoram impactos**",
+      "subtitulo": "",
+      "imagem": "",
+      "fonte": "g1 Política",
+      "data": "25/11/2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/25/reforma-tributaria-e-fim-da-escala-6x1-podem-pressionar-inflacao-em-2027-bc-e-equipe-economica-monitoram-impactos.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Economistas apontam que a introdução do novo imposto sobre o consumo da reforma tributária e o fim da escala 6x1 podem pressionar a inflação brasileira no início de 2027.",
+            "O Banco Central classificou o fim da escala 6x1 como um choque de oferta em sua ata do Copom e monitora se a mudança elevará os preços, o que exigiria juros mais restritivos.",
+            "A transição da reforma tributária prevê CBS de **11,3%** em janeiro, enquanto o imposto seletivo para produtos nocivos à saúde e ao meio ambiente entra em vigor em fevereiro de 2027."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O fim da escala 6x1 foi aprovado pelo Congresso em 14 de outubro e reduz gradualmente a jornada máxima de 44 para 42 horas semanais em 16 de dezembro e para 40 horas em dezembro de 2027.",
+            "A mudança na jornada beneficia **37 milhões** de trabalhadores com carteira assinada e eleva o custo trabalhista anual entre **R$ 178,2 bilhões** e **R$ 267,2 bilhões**, segundo a CNI.",
+            "Estudos indicam que o encarecimento da mão de obra pode gerar alta de preços ao consumidor de cerca de **6,2%** (CNI) a até **13%** (CNC), além de impactos na folha salarial e empregos."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#politica",
+        "#economia",
+        "#brasil",
+        "#noticias"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "Colômbia resgata todos os reféns de supermercado, **diz presidente**",
+      "subtitulo": "",
+      "imagem": "https://s2-g1.glbimg.com/e1zqmS0yelieLb13LRzGduYAsNI=/2981x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/3/le6ILtRTSKrU3edNOoaQ/2026-11-25t001458z-1798198520-rc2luoapamoc-rtrmadp-3-colombia-hostages.jpg",
+      "fonte": "g1 Mundo",
+      "data": "25/11/2026",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/supermercado-com-refens-na-colombia.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "O presidente da Colômbia, Abelardo de la Espriella, informou que todos os reféns mantidos por cerca de 17 horas em um supermercado de Cartagena foram libertados na madrugada de quarta‑feira (25), sem detalhes sobre o estado de saúde dos libertados.",
+            "A operação policial, iniciada na noite de terça‑feira (24) com policiais, atiradores de elite e unidades especiais, resultou na morte de um dos sequestradores; os criminosos foram avisados de que poderiam se entregar, mas recusaram."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Os assaltantes, surpreendidos pela polícia, trancaram‑se no estabelecimento com clientes e exigiam **7 bilhões** de pesos colombianos (cerca de **R$ 9,5 milhões**), carros de fuga e passagem livre até Barranquilla, a aproximadamente 130 km de Cartagena, mas não houve acordo.",
+            "O episódio provocou a suspensão temporária dos voos no aeroporto de Cartagena, que foi retomada posteriormente; imagens mostraram homens encapuzados e armados dentro do supermercado."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Na noite de segunda‑feira (23), um carro‑bomba explodiu em Villavicencio; até o momento não há informações de ligação entre os dois episódios, que ocorrem exatamente dez anos após o acordo de paz de 2016 com as Farc.",
+            "Espriella atribuiu o ataque à principal dissidência das Farc; o ministro da Defesa, Jorge Mora, anunciou reforço das forças de segurança para proteger a infraestrutura energética do país após ocorrências no sudoeste colombiano."
+          ]
+        },
+        {
+          "titulo": "O que vem agora",
+          "topicos": [
+            "O Ministério da Defesa coordenou medidas de proteção junto às forças de segurança e à pasta de Energia para reforçar a segurança das redes de eletricidade e gás e garantir o restabelecimento dos serviços."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Justiça derruba suspensão e restabelece regras para vale-refeição **e alimentação; entenda**",
+      "subtitulo": "",
+      "imagem": "https://s2-g1.glbimg.com/uuwSO1AahQiCV1SM8_h5KESXSgM=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/E/qqq7LTQ3yrBoJmqNjHwg/videoframe-6848065.png",
+      "fonte": "g1 Economia",
+      "data": "25/11/2026",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/25/justica-derruba-suspensao-e-restabelece-regras-para-vale-refeicao-e-alimentacao-entenda.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A Justiça derrubou uma liminar concedida no Distrito Federal pelo juiz federal Frederico Botelho de Barros Viana no início deste mês, restabelecendo as regras do vale-refeição e alimentação.",
+            "A medida restabelece o teto de **3,6%** para a taxa de desconto (MDR), o limite de **2%** para a tarifa de intercâmbio e o prazo máximo de 15 dias para o repasse aos estabelecimentos.",
+            "A decisão reativa a exigência de que operadoras com mais de **500 mil** trabalhadores migrem para arranjos abertos, onde diferentes empresas atuam nas etapas dos cartões."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Voltam a valer os prazos de adequação às novas regras e as competências dadas ao Comitê Gestor para modificar taxas, prazos e diretrizes dos arranjos de pagamento.",
+            "A liminar que havia suspendido parte das normas beneficiava associadas à ABBT, como Alelo, Pluxee, VR e ValeShop, que podiam seguir o modelo antigo do PAT.",
+            "A interoperabilidade dos cartões, que obriga maquininhas a aceitarem todas as bandeiras de vale-refeição e alimentação, já estava mantida pela decisão anterior."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#economia",
+        "#varejo",
+        "#mercado",
+        "#negocios"
+      ],
+      "feed": false
+    }
+  ]
 }
