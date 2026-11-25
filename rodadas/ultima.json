@@ -46,28 +46,33 @@
     {
       "tipo": "noticia",
       "categoria": "Política",
-      "manchete": "Reforma tributária e fim da escala 6x1 podem pressionar inflação em 2027; BC e equipe **econômica monitoram impactos**",
-      "subtitulo": "",
-      "imagem": "",
+      "manchete": "Tarifaço de Trump: EUA propõem tarifa de **10%** sobre aviões brasileiros e aumento de imposto sobre açúcar",
+      "subtitulo": "Em 25 de novembro de 2026, o governo dos Estados Unidos, por meio do representante do USTR Jamieson Greer",
+      "imagem": "https://s2-g1.glbimg.com/3S9ShnhRU0uEGCMdeMpWUZa5xrQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/H/e51ZZlQE6SAofUAihVAA/261124-grafico-da-negociacao-ao-bloqueio-veja-os-passos-da-disputa-tarifaria-entre-brasil-e-eua.jpg",
       "fonte": "g1 Política",
       "data": "25/11/2026",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/reforma-tributaria-e-fim-da-escala-6x1-podem-pressionar-inflacao-em-2027-bc-e-equipe-economica-monitoram-impactos.ghtml",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-propoem-tarifas-mais-altas-sobre-importacoes-do-brasil.ghtml",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "Economistas apontam que a introdução do novo imposto sobre o consumo da reforma tributária e o fim da escala 6x1 podem pressionar a inflação brasileira no início de 2027.",
-            "O Banco Central classificou o fim da escala 6x1 como um choque de oferta em sua ata do Copom e monitora se a mudança elevará os preços, o que exigiria juros mais restritivos.",
-            "A transição da reforma tributária prevê CBS de **11,3%** em janeiro, enquanto o imposto seletivo para produtos nocivos à saúde e ao meio ambiente entra em vigor em fevereiro de 2027."
+            "Em 25 de novembro de 2026, o governo dos Estados Unidos, por meio do representante do USTR Jamieson Greer, propôs acrescentar uma tarifa de **10%** sobre aeronaves brasileiras prontas que ingressem no mercado americano, impactando especialmente a Embraer.",
+            "A proposta também inclui o aumento da tributação sobre açúcar bruto e refinado importado do Brasil que ultrapasse as cotas estabelecidas pelos EUA, embora o percentual exato não tenha sido especificado no texto."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "O fim da escala 6x1 foi aprovado pelo Congresso em 14 de outubro e reduz gradualmente a jornada máxima de 44 para 42 horas semanais em 16 de dezembro e para 40 horas em dezembro de 2027.",
-            "A mudança na jornada beneficia **37 milhões** de trabalhadores com carteira assinada e eleva o custo trabalhista anual entre **R$ 178,2 bilhões** e **R$ 267,2 bilhões**, segundo a CNI.",
-            "Estudos indicam que o encarecimento da mão de obra pode gerar alta de preços ao consumidor de cerca de **6,2%** (CNI) a até **13%** (CNC), além de impactos na folha salarial e empregos."
+            "Essas mudanças alteram o regime tarifário criado em julho, quando o USTR impôs uma tarifa adicional de **25%** sobre produtos brasileiros, mas manteve aeronaves e certas exportações de açúcar isentas como itens estratégicos.",
+            "Com a retirada das aeronaves da lista de exceções, a tarifa total sobre algumas exportações brasileiras pode chegar a **37,5%** (**25%** + **12,5%** de sobretaxa por trabalho forçado + **10%** sobre aeronaves)."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "O USTR justificou as medidas alegando mais de um ano de reclamações não atendidas pelo Brasil, citando questões como o sistema de pagamentos PIX, acesso ao mercado de etanol, desmatamento ilegal, regulação de plataformas digitais e proteção à propriedade intelectual, com base na Seção 301 da Lei de Comércio de 1974.",
+            "Apesar das novas tarifas, a maioria dos principais produtos exportados pelo Brasil continua fora do alcance das medidas, e os EUA afirmam estar abertos a negociações para alcançar um acordo comercial mutuamente satisfatório."
           ]
         }
       ],
@@ -81,78 +86,41 @@
       "feed": false
     },
     {
-      "tipo": "mundo",
-      "categoria": "Mundo",
-      "manchete": "Colômbia resgata todos os reféns de supermercado, **diz presidente**",
-      "subtitulo": "",
-      "imagem": "https://s2-g1.glbimg.com/e1zqmS0yelieLb13LRzGduYAsNI=/2981x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/3/le6ILtRTSKrU3edNOoaQ/2026-11-25t001458z-1798198520-rc2luoapamoc-rtrmadp-3-colombia-hostages.jpg",
-      "fonte": "g1 Mundo",
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Dólar passa a cair, com foco em inflação e PIB dos EUA e medidas econômicas de **Lula; Ibovespa sobe**",
+      "subtitulo": "Na quarta‑feira (25), o dólar recuou 0,36% por volta das 10h50, cotado a R$ 5,8904, após ter tocado R$ 5,9703",
+      "imagem": "https://s2-g1.glbimg.com/WWL1wnf2CLz_6TKD3nEVNgRPZas=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg",
+      "fonte": "g1 Economia",
       "data": "25/11/2026",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/supermercado-com-refens-na-colombia.ghtml",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/25/dolar-ibovespa.ghtml",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "O presidente da Colômbia, Abelardo de la Espriella, informou que todos os reféns mantidos por cerca de 17 horas em um supermercado de Cartagena foram libertados na madrugada de quarta‑feira (25), sem detalhes sobre o estado de saúde dos libertados.",
-            "A operação policial, iniciada na noite de terça‑feira (24) com policiais, atiradores de elite e unidades especiais, resultou na morte de um dos sequestradores; os criminosos foram avisados de que poderiam se entregar, mas recusaram."
+            "Na quarta‑feira (25), o dólar recuou **0,36%** por volta das 10h50, cotado a **R$ 5,8904,** após ter tocado **R$ 5,9703**; ao mesmo tempo, o Ibovespa subiu **0,46%**, registrando 164.738 pontos.",
+            "O acumulado da semana mostrou dólar em queda de **0,41%**, mas alta de **8,56%** no mês e **7,68%** no ano; o Ibovespa acumulou -**1,37%** na semana, -**2,28%** no mês e +**1,84%** no ano."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "Os assaltantes, surpreendidos pela polícia, trancaram‑se no estabelecimento com clientes e exigiam **7 bilhões** de pesos colombianos (cerca de **R$ 9,5 milhões**), carros de fuga e passagem livre até Barranquilla, a aproximadamente 130 km de Cartagena, mas não houve acordo.",
-            "O episódio provocou a suspensão temporária dos voos no aeroporto de Cartagena, que foi retomada posteriormente; imagens mostraram homens encapuzados e armados dentro do supermercado."
+            "O governo federal prepara uma Proposta de Emenda à Constituição (PEC) com novas medidas de ajuste econômico, segundo o ministro do Planejamento Bruno Moretti, que afirmou que a proposta visa dar mais “potência fiscal” e garantir o cumprimento da meta de resultado primário.",
+            "Moretti informou, no blog da Ana Flor em 24/10, que o presidente Lula autorizou e participa das discussões; a medida não prevê cortes em programas sociais nem nas promessas de campanha."
           ]
         },
         {
           "titulo": "Contexto",
           "topicos": [
-            "Na noite de segunda‑feira (23), um carro‑bomba explodiu em Villavicencio; até o momento não há informações de ligação entre os dois episódios, que ocorrem exatamente dez anos após o acordo de paz de 2016 com as Farc.",
-            "Espriella atribuiu o ataque à principal dissidência das Farc; o ministro da Defesa, Jorge Mora, anunciou reforço das forças de segurança para proteger a infraestrutura energética do país após ocorrências no sudoeste colombiano."
+            "A Câmara dos Deputados aprovou, na última segunda‑feira, um projeto de lei de ajuste nas contas públicas que pode gerar economia de até **R$ 56 bilhões** já no próximo ano, aguardando sanção presidencial.",
+            "Antes do recesso parlamentar, que começa em 23 de dezembro, o governo pretende analisar ao menos oito projetos, entre eles MP das bets, MP do imposto seletivo, PEC do IPI, LDO e LOA de 2027, definição da alíquota do CBS, MP Desenrola Brasil 3.0 e regulamentação das big techs."
           ]
         },
         {
           "titulo": "O que vem agora",
           "topicos": [
-            "O Ministério da Defesa coordenou medidas de proteção junto às forças de segurança e à pasta de Energia para reforçar a segurança das redes de eletricidade e gás e garantir o restabelecimento dos serviços."
-          ]
-        }
-      ],
-      "hashtags": [
-        "#BomDiaVarejo",
-        "#mundo",
-        "#economiaglobal",
-        "#noticias",
-        "#internacional"
-      ],
-      "feed": false
-    },
-    {
-      "tipo": "noticia",
-      "categoria": "Economia",
-      "manchete": "Justiça derruba suspensão e restabelece regras para vale-refeição **e alimentação; entenda**",
-      "subtitulo": "",
-      "imagem": "https://s2-g1.glbimg.com/uuwSO1AahQiCV1SM8_h5KESXSgM=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/E/qqq7LTQ3yrBoJmqNjHwg/videoframe-6848065.png",
-      "fonte": "g1 Economia",
-      "data": "25/11/2026",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/25/justica-derruba-suspensao-e-restabelece-regras-para-vale-refeicao-e-alimentacao-entenda.ghtml",
-      "materia": "",
-      "slides": [
-        {
-          "titulo": "O que aconteceu",
-          "topicos": [
-            "A Justiça derrubou uma liminar concedida no Distrito Federal pelo juiz federal Frederico Botelho de Barros Viana no início deste mês, restabelecendo as regras do vale-refeição e alimentação.",
-            "A medida restabelece o teto de **3,6%** para a taxa de desconto (MDR), o limite de **2%** para a tarifa de intercâmbio e o prazo máximo de 15 dias para o repasse aos estabelecimentos.",
-            "A decisão reativa a exigência de que operadoras com mais de **500 mil** trabalhadores migrem para arranjos abertos, onde diferentes empresas atuam nas etapas dos cartões."
-          ]
-        },
-        {
-          "titulo": "Mais detalhes",
-          "topicos": [
-            "Voltam a valer os prazos de adequação às novas regras e as competências dadas ao Comitê Gestor para modificar taxas, prazos e diretrizes dos arranjos de pagamento.",
-            "A liminar que havia suspendido parte das normas beneficiava associadas à ABBT, como Alelo, Pluxee, VR e ValeShop, que podiam seguir o modelo antigo do PAT.",
-            "A interoperabilidade dos cartões, que obriga maquininhas a aceitarem todas as bandeiras de vale-refeição e alimentação, já estava mantida pela decisão anterior."
+            "Investidores também monitoram dados econômicos dos EUA, como o índice PCE de outubro, o Livro‑Bege e os pedidos iniciais de seguro‑desemprego, enquanto bolsas asiáticas recuaram (Xangai -**2,03%**, CSI 300 -**1,65%**, Kospi -**6,16%**, Hang Seng -**1,14%**, Nikkei -**2,78%**)."
           ]
         }
       ],
@@ -162,6 +130,42 @@
         "#varejo",
         "#mercado",
         "#negocios"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "Wall Street abre sessão em forte queda com alta da inflação e pressão **do setor tech**",
+      "subtitulo": "As bolsas de Nova York abriram em forte queda nesta quarta-feira (24)",
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/02/mercado-queda.jpg",
+      "fonte": "Money Times",
+      "data": "25/11/2026",
+      "link": "https://www.moneytimes.com.br/wall-street-abre-sessao-em-queda-com-alta-da-inflacao-e-pressao-do-setor-tech-davs/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "As bolsas de Nova York abriram em forte queda nesta quarta-feira (24), pressionadas pela alta da inflação norte-americana e por novos anúncios do setor tecnológico.",
+            "O índice de preços de gastos com consumo pessoal (PCE) dos EUA subiu **0,3%** em outubro ante setembro, conforme dados divulgados pelo BEA.",
+            "Na comparação anual, o PCE avançou **3,8%**, ficando acima da meta de **2%** do Federal Reserve, enquanto o núcleo do índice subiu **3,3%** em **12 meses**."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O presidente Donald Trump anunciou uma nova rodada de tarifas comerciais de até **20%** sobre produtos da China, da União Europeia e de outros 12 parceiros.",
+            "No pregão de abertura, o índice Dow Jones recuou **1,64%** aos 49.469,86 pontos, o S&P 500 caiu **2,42%** aos 7.200,04 pontos e o Nasdaq despencou **3,54%** aos 22.948,482 pontos."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
       ],
       "feed": false
     }
