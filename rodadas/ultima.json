@@ -3,34 +3,34 @@
     {
       "tipo": "noticia",
       "categoria": "Varejo",
-      "manchete": "“Não vamos ser sufocados”, **diz CEO do iFood sobre competição predatória**",
-      "subtitulo": "",
-      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2024/11/iFood-restaurante.jpg",
+      "manchete": "Para Abras, brasileiros estão se dando conta de que ‘existe uma **vida sem bets’**",
+      "subtitulo": "O consumo nos supermercados registrou alta em outubro, primeiro mês após a proibição das apostas online",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2024/11/BETS_SHUTTER.jpg",
       "fonte": "Mercado & Consumo",
       "data": "26/11/2026",
-      "link": "https://mercadoeconsumo.com.br/26/11/2026/foodservice/nao-vamos-ser-sufocados-diz-ceo-do-ifood-sobre-competicao-predatoria/",
+      "link": "https://mercadoeconsumo.com.br/26/11/2026/economia/para-abras-brasileiros-estao-se-dando-conta-de-que-existe-uma-vida-sem-bets/",
       "materia": "",
       "slides": [
         {
           "titulo": "O que aconteceu",
           "topicos": [
-            "O CEO do iFood, Diego Barreto, afirmou que a empresa tem total capacidade de resistir a uma guerra milionária de subsídios promovida por concorrentes estrangeiros no setor de delivery.",
-            "A companhia desembolsou **R$ 15,6 bilhões** em seis meses, o que representa **65%** dos **R$ 24 bilhões** em investimentos previstos até março de 2027 pela controladora Prosus.",
-            "Entre abril e setembro, que marcam o primeiro semestre do ano fiscal de 2027, as vendas do iFood atingiram o recorde de **R$ 88,1 bilhões**, uma alta de **25%** na comparação anual."
+            "O consumo nos supermercados registrou alta em outubro, primeiro mês após a proibição das apostas online, e o movimento ganhou força em novembro, conforme avaliação da Associação Brasileira de Supermercados (Abras).",
+            "Segundo Márcio Milan, vice-presidente da Abras, o comportamento dos compradores nas lojas indica que o término das bets liberou recursos nos orçamentos familiares, embora este não seja o único motivo para a alta."
           ]
         },
         {
           "titulo": "Mais detalhes",
           "topicos": [
-            "O iFood detém cerca de **80%** do mercado brasileiro de aplicativos de entrega e perdeu cerca de **5 pontos percentuais** de participação nos últimos 1,5 ano.",
-            "No início do mês, o iFood processou a concorrente Keeta na Justiça em São Paulo, acusando-a de preços predatórios e de incentivar restaurantes a quebrar exclusividades.",
-            "Novas categorias como supermercados, farmácias, pets e bebidas já respondem por mais de **40%** da receita, com vendas de **R$ 7,1 bilhões** no semestre e alta anual de **53%**."
+            "Monitoramento semanal da entidade apontou que o consumo cresceu **8%** entre 9 e 15 de novembro, na comparação com o mesmo período do ano passado, em levantamento iniciado em 5 de outubro.",
+            "A Abras informou que o avanço ocorreu antes dos repasses do Bolsa Família do mês, demonstrando uma tendência contínua de crescimento e não um evento pontual, segundo o executivo.",
+            "Do reajuste de **R$ 97** no Bolsa Família, a entidade calcula que entre **R$ 45** e **R$ 47** sejam destinados ao consumo, impulsionando ainda mais o setor supermercadista."
           ]
         },
         {
           "titulo": "Contexto",
           "topicos": [
-            "O iFood prevê aportar mais **R$ 1 bilhão** de recursos próprios em um Fidc entre abril e maio de 2027 para ampliar a carteira de crédito do braço financeiro iFood Pago."
+            "Para a Black Friday, a associação projeta um crescimento de **5,5%** a **6,5%** no consumo nos supermercados, período que deve evidenciar uma mudança no patamar de gastos das famílias.",
+            "O setor supermercadista demonstrou preocupação com o curto prazo de adaptação à escala de trabalho 5×2, alertando que a reorganização pode gerar riscos de desabastecimento e aumento de preços."
           ]
         }
       ],
@@ -42,6 +42,127 @@
         "#varejoalimentar"
       ],
       "feed": true
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Reforma tributária: sem benefícios a produtos e setores, imposto do governo cairia de **11,3%** para 7% em 2027, estima órgão do Senado",
+      "subtitulo": "A Instituição Fiscal Independente (IFI), ligada ao Senado",
+      "imagem": "https://s2-g1.glbimg.com/YJ_syufJQwwnNa7HVdOBRqZDxTs=/1069x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/r/Le0ygFSR6vKFbFhMwirA/captura-de-tela-2026-11-26-105712.png",
+      "fonte": "g1 Política",
+      "data": "26/11/2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/reforma-tributaria-sem-beneficios-a-produtos-e-setores-imposto-do-governo-cairia-de-113percent-para-7percent-em-2027-estima-orgao-do-senado.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A Instituição Fiscal Independente (IFI), ligada ao Senado, estimou que a alíquota da Contribuição sobre Bens e Serviços (CBS) cairia de **11,3%** para **7%** em 2027 se não houvesse os benefícios fiscais aprovados na reforma tributária.",
+            "O Tribunal de Contas da União (TCU), com base na Receita Federal, propôs a alíquota federal de **11,3%** para o próximo ano, valor que o Senado fixará de forma definitiva até o dia 15 de dezembro."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Segundo a IFI, as exceções retiram **37%** da base de tributação e adicionam **4,3 pontos percentuais** à alíquota, sendo 1,9 ponto proveniente dos alimentos, dos quais 1,4 ponto vem da Cesta Básica Nacional.",
+            "A CBS vai substituir o PIS, a Cofins e parte do IPI a partir de 2026, com o objetivo de manter a carga tributária atual, enquanto a cobrança integral do imposto somado de estados e municípios pode ultrapassar **30%** em 2033."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "O secretário da Receita Federal, Robinson Barreirinhas, explicou que a alíquota proposta de **11,3%** valerá apenas em 2027 e será recalculada em 2028 com base nos dados reais de arrecadação do primeiro ano do novo imposto."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#politica",
+        "#economia",
+        "#brasil",
+        "#noticias"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "'Carne dopada': exportadores brasileiros rebatem fala de Macron: 'grave e inaceitável um chefe de Estado **recorrer a inverdades'**",
+      "subtitulo": "A ABPA e a Abiec repudiaram as declarações do presidente francês, Emmanuel Macron",
+      "imagem": "https://s2-g1.glbimg.com/-PdVtRpi6_bkezFvwjqA2odDGzc=/1317x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/G/AtfP9JQsiKPZ35KBXvvg/captura-de-tela-2026-11-26-100401.png",
+      "fonte": "g1 Economia",
+      "data": "26/11/2026",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/exportadores-de-carne-rebatem-fala-de-macron.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A ABPA e a Abiec repudiaram as declarações do presidente francês, Emmanuel Macron, que chamou a carne brasileira de “dopada” em 25 de novembro de 2026 no Palácio do Eliseu, na França.",
+            "As entidades brasileiras classificaram a fala como grave, inaceitável e de caráter político e protecionista, sem qualquer fundamento técnico para questionar os alimentos do país.",
+            "A União Europeia suspendeu em 3 de setembro as importações de produtos animais do Brasil alegando controles insuficientes sobre antimicrobianos, e não por irregularidades sanitárias na carne."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O acordo comercial entre UE e Mercosul vigora provisoriamente desde maio, e a restrição afeta apenas o Brasil, enquanto Argentina, Paraguai e Uruguai seguem autorizados.",
+            "A Abiec informou que a UE responde por cerca de **5%** das exportações brasileiras de carne bovina e cobrou reciprocidade após mais de duas décadas de negociações.",
+            "A União Europeia remarcou para os dias 7 e 8 de dezembro a reunião que discutirá o retorno do Brasil à lista de autorizados a exportar carne de frango e mel."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Dólar recua para os **R$ 5,7435** com IPCA-15 e expectativas sobre equipe econômica de Lula",
+      "subtitulo": "Na quarta-feira (25), o dólar comercial fechou em baixa de 1,26%, cotado a R$ 5,7435",
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg",
+      "fonte": "Money Times",
+      "data": "26/11/2026",
+      "link": "https://www.moneytimes.com.br/dolar-recua-para-os-r-57435-com-ipca-15-e-expectativas-sobre-equipe-economica-de-lula-davs/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Na quarta-feira (25), o dólar comercial fechou em baixa de **1,26%**, cotado a **R$ 5,7435,** após passar a sessão em forte queda e recuar para o patamar de **R$ 5,70.**",
+            "O movimento seguiu o comportamento externo da moeda norte-americana, cujo índice DXY registrava retração de **0,11%**, aos 103,7710 pontos, por volta das 17h15.",
+            "A prévia da inflação oficial, o IPCA-15, subiu **0,22%** em novembro, desacelerando frente ao avanço de **0,32%** apurado no mês de outubro."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O resultado do IPCA-15 ficou abaixo das projeções dos analistas, que esperavam altas entre **0,27%** e **0,41%**, trazendo alívio para os juros futuros.",
+            "Investidores também repercutiram boatos sobre a possível escolha de Luiz Carlos Trabuco, do Bradesco, para chefiar o Ministério da Fazenda.",
+            "A moeda americana caiu devido a discussões sobre uma PEC para limitar gastos públicos com saúde, educação e emendas parlamentares."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "O ministro do Planejamento, Bruno Moretti, afirmou nesta quinta-feira que ainda não existe previsão de envio de uma PEC fiscal ao Congresso."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#economia",
+        "#varejo",
+        "#mercado",
+        "#negocios"
+      ],
+      "feed": false
     }
   ]
 }
