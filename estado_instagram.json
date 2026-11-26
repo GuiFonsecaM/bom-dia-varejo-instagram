@@ -1481,7 +1481,8 @@
   "bbc.com/portuguese/articles/cmzxvew7yl0qo",
   "g1.globo.com/mundo/blog/sandra-cohen/post/2026/11/26/720-mil-mortos-o-custo-humano-da-guerra-de-putin-na-ucrania-ameaca-o-futuro-da-russia.ghtml",
   "g1.globo.com/mundo/noticia/2026/11/26/kim-jong-un-visita-instalacao-enriquecimento-de-uranio-promete-construir-mais-armas-nucleares-fotos.ghtml",
-  "mercadoeconsumo.com.br/26/11/2026/gestao/ceo-da-volkswagen-no-brasil-anuncia-saida-chairman-assume-cargo-interinamente"
+  "mercadoeconsumo.com.br/26/11/2026/gestao/ceo-da-volkswagen-no-brasil-anuncia-saida-chairman-assume-cargo-interinamente",
+  "mercadoeconsumo.com.br/26/11/2026/foodservice/nao-vamos-ser-sufocados-diz-ceo-do-ifood-sobre-competicao-predatoria"
  ],
  "postados": [
   {
@@ -2683,6 +2684,13 @@
    "titulo": "Macron diz que carne brasileira é 'dopada' e comemora bloqueio da UE ao produto",
    "em": "2026-11-26 13:00",
    "feed": false
+  },
+  {
+   "chave": "mercadoeconsumo.com.br/26/11/2026/foodservice/nao-vamos-ser-sufocados-diz-ceo-do-ifood-sobre-competicao-predatoria",
+   "categoria": "Varejo",
+   "titulo": "“Não vamos ser sufocados”, diz CEO do iFood sobre competição predatória",
+   "em": "2026-11-26 17:30",
+   "feed": true
   }
  ]
 }
