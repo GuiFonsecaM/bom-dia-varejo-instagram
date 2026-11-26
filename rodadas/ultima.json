@@ -1,3 +1,174 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "tipo": "noticia",
+      "categoria": "Varejo",
+      "manchete": "Alexa vira consultora de compras e ajuda o brasileiro que planeja **a Black Friday**",
+      "subtitulo": "A Amazon integrou inteligência generativa à Alexa no site e app em outubro",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/alexa-envato.webp",
+      "fonte": "Mercado & Consumo",
+      "data": "26/11/2026",
+      "link": "https://mercadoeconsumo.com.br/26/11/2026/ecommerce/alexa-vira-consultora-de-compras-e-ajuda-o-brasileiro-que-planeja-a-black-friday/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A Amazon integrou inteligência generativa à Alexa no site e app em outubro, permitindo que usuários busquem produtos por perguntas e coloquem itens no carrinho.",
+            "Em dispositivos com a nova Alexa Plus, a interação ocorre por voz e a assistente realiza a compra inteira, enquanto o pagamento e a conferência ficam com o cliente.",
+            "A tecnologia introduz gráficos de preços históricos que cobrem até um ano, exibindo o ponto mais barato, o mais caro e a trajetória do valor para evitar desconfianças."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Uma pesquisa da Amazon com **35 mil** pessoas no Brasil apontou que **41%** dos entrevistados pretendem gastar mais na Black Friday de 2026 comparado ao ano anterior.",
+            "O frete grátis foi o fator mais citado na decisão de compra, superando o desconto e a velocidade de entrega, conforme o levantamento da empresa.",
+            "Para suprir o salto na demanda, a varejista conta com **55 mil** colaboradores, volume superior a **50%** em relação ao ano passado, além de **12 mil** temporários para a data."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "A empresa manteve os cupons promocionais, incluindo vales de **R$ 100** para compras de até **R$ 500** e abatimentos percentuais em mercadorias de menor valor."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#varejo",
+        "#supermercado",
+        "#atacarejo",
+        "#varejoalimentar"
+      ],
+      "feed": true
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Limite do cartão de quem usa o crédito rotativo com frequência será reduzido; **entenda a mudança**",
+      "subtitulo": "",
+      "imagem": "",
+      "fonte": "g1 Economia",
+      "data": "26/11/2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/limite-do-cartao-de-quem-usa-o-credito-rotativo-com-frequencia-sera-reduzido-entenda-a-mudanca.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A partir de 1º de julho de 2027, os bancos deverão diminuir gradualmente o limite de crédito dos clientes que usarem o rotativo com frequência, conforme decisão do Conselho Monetário Nacional aprovada em uma quarta-feira (25).",
+            "A redução afetará consumidores que não pagaram a fatura inteira em três ou mais meses distintos durante um período de seis meses e financiaram o saldo no rotativo, sendo avisados previamente e com critérios previstos em contrato."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Para suspender a limitação, o cliente precisará quitar totalmente a dívida do rotativo ou pagar o valor integral de seis faturas em sequência, considerando todos os cartões e débitos do consumidor no sistema financeiro.",
+            "O Banco Central registrou **R$ 311 bilhões** em contratações no rotativo nos oito primeiros meses de 2026, superando os **R$ 266 bilhões** do mesmo período de 2025, enquanto as concessões de 2026 já chegam perto do total de **R$ 403 bilhões** de todo o ano anterior."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Em janeiro, o país tinha **101 milhões** de usuários de cartão de crédito, sendo que cerca de **40 milhões** tinham dívidas no rotativo, modalidade que registrou inadimplência de **63,5%** e taxa de juros de **445%** ao ano em agosto.",
+            "O endividamento das famílias alcançou o patamar recorde de **50,1%** da renda anual em agosto de 2026, enquanto a inadimplência média total das operações de crédito ficou em **5%** em setembro, o maior patamar desde março de 2011."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#economia",
+        "#varejo",
+        "#mercado",
+        "#negocios"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "Secretária de Agricultura de Trump defende novas tarifas e acusa Brasil de 'práticas desleais' contra **agricultores dos EUA**",
+      "subtitulo": "",
+      "imagem": "https://s2-g1.glbimg.com/3cgqUEJ3wUBdwd7cbT3lFTvUpts=/6500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/R/NgEvYWT7SRXpxzveRiaw/2026-11-24t164008z-353424949-rc2jcnanr8ak-rtrmadp-3-usa-farm-religion.jpg",
+      "fonte": "g1 Mundo",
+      "data": "26/11/2026",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/secretaria-de-agricultura-de-trump-defende-novas-tarifas-e-acusa-brasil-de-praticas-desleais-contra-agricultores-dos-eua.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Brooke Rollins, secretária de Agricultura dos EUA, anunciou nesta quarta‑feira (25 de novembro de 2026) que a administração Trump avalia tarifas adicionais ao Brasil para proteger agricultores americanos de beterraba e cana‑de‑açúcar contra importações excessivas.",
+            "A proposta incide sobre açúcar bruto e refinado que ultrapassar a cota anual de 100 **000 toneladas** para o Brasil; a taxa de **25 %** sobre o excedente seria substituída por uma cobrança em dólares por quilograma, mantendo o adicional de **12,5 %**."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Hoje, importações dentro da cota pagam **25 %** de tarifa; volumes acima da cota têm tarifa de **37,5 %** (**25 %** + **12,5 %**). A nova medida aplicaria a cobrança por kg a todos os países que excederem suas cotas, não só ao Brasil.",
+            "Entre janeiro e outubro de 2026, os EUA representaram menos de **1 %** das exportações brasileiras do complexo sucroalcooleiro, ocupando a 22ª posição com **US$ 147 milhões** (≈ **R$ 863 milhões**) e **235,2 mil** toneladas, enquanto a Índia lidera com **US$ 714 milhões** (≈ **R$ 4 bilhões**)."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "O governo brasileiro, por meio do Palácio do Planalto, manifestou indignação, alegando negociações de boa‑fé há mais de um ano e classificando a tarifa como pressão sobre questões como o sistema de pagamentos PIX, comércio digital e acordos preferenciais.",
+            "Os EUA abriram consulta pública; interessados devem enviar pedido de inscrição e resumo do depoimento até 7 de dezembro 2026, comentários escritos até 30 de dezembro 2026, e a audiência pública está marcada para 14 de janeiro 2027."
+          ]
+        },
+        {
+          "titulo": "O que vem agora",
+          "topicos": [
+            "Ainda não há data definida para a entrada em vigor das novas tarifas sobre açúcar e aeronaves; a efetivação dependerá dos resultados da consulta pública e da audiência programada."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que não 'cederá a esse **tipo de ameaça'**",
+      "subtitulo": "",
+      "imagem": "https://s2-g1.glbimg.com/slWKFHzL9eAXr-BVo__rjABSYuQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/C/yRvQeGSj6mhcurnHfH7g/78090845-1004.webp",
+      "fonte": "g1 Política",
+      "data": "26/11/2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/25/governo-lula-diz-estar-indignado-com-nova-proposta-de-tarifa-dos-eua-contra-o-brasil-e-que-nao-cedera-a-esse-tipo-de-ameaca.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "O governo brasileiro divulgou uma nota de indignação nesta quarta-feira (25) contra a proposta do Escritório do Representante Comercial dos EUA (USTR) de taxar aeronaves e açúcar do Brasil.",
+            "Segundo o Planalto, os EUA recomendaram as tarifas sem enviar previamente uma proposta negociada e com o intuito de pressionar o Brasil a alterar regras nacionais como o PIX e o comércio digital.",
+            "A Casa Branca aplica taxações com base na Seção 301: um tarifaço de **25%** devido a divergências econômicas e outro de **12,5%** relacionado a falhas no combate ao trabalho forçado."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Com a alteração anunciada pelo representante comercial americano Jamieson Greer, aeronaves prontas, o que pode impactar a Embraer, passariam a pagar uma tarifa de **10%** nos EUA.",
+            "O governo brasileiro afirmou que não cederá a ameaças, continuará buscando uma solução negociada, avaliará medidas de reciprocidade e manterá ações na Organização Mundial do Comércio (OMC).",
+            "Em julho, o Brasil já havia acionado a OMC com um pedido de consulta, etapa inicial que concede um prazo de 60 dias para uma tentativa de acordo bilateral antes de um eventual julgamento."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#politica",
+        "#economia",
+        "#brasil",
+        "#noticias"
+      ],
+      "feed": false
+    }
+  ]
 }
