@@ -1,3 +1,167 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "tipo": "noticia",
+      "categoria": "Varejo",
+      "manchete": "Black Friday: uso do PIX cresce **29%** nas primeiras horas do dia em relação a 2025, aponta levantamento",
+      "subtitulo": "Nas primeiras horas da Black Friday desta sexta-feira (27)",
+      "imagem": "https://s2-g1.glbimg.com/A0vENKya6jeHPEQU3c129vDeneA=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/FJfY8DRdAflDnlYjueaA/globo-canal-4-20261125-2000-frame-97229.jpeg",
+      "fonte": "g1 Economia",
+      "data": "27/11/2026",
+      "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-uso-do-pix-cresce-29percent-nas-primeiras-horas-do-dia-em-relacao-a-2025-aponta-levantamento.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Nas primeiras horas da Black Friday desta sexta-feira (27), o uso do Pix registrou um crescimento de **29%** em relação ao mesmo período de 2025, segundo levantamento nacional que abrangeu comércio e serviços.",
+            "A pesquisa, realizada pelo Itaú Unibanco, analisou as transações efetuadas entre 0h e 9h em todo o país.",
+            "O setor de farmácias e medicamentos destacou-se com a maior alta no uso do sistema de pagamentos instantâneos, registrando um aumento de **97%**."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Outros segmentos que também apresentaram crescimento expressivo no uso do Pix foram materiais de construção (**59%**), hotéis (**45%**), artigos esportivos (**37%**) e roupas e acessórios (**26%**).",
+            "O levantamento também apontou que a prática de conceder descontos para pagamentos à vista via Pix em comparação ao cartão de crédito ocorre, em menor escala, em todas as categorias analisadas."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#varejo",
+        "#supermercado",
+        "#atacarejo",
+        "#varejoalimentar"
+      ],
+      "feed": true
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Do fim dos supersalários à previdência de militares: o que Durigan pensou para 2027 e agora **deixa para Trabuco**",
+      "subtitulo": "Luiz Carlos Trabuco, presidente do conselho do Bradesco",
+      "imagem": "https://s2-g1.glbimg.com/ZfxCcG1916sfdaDJ7ZODsRrkVkM=/2200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/A/epnS0VTAaB4bWD4Xgivw/fotojet-21-.jpg",
+      "fonte": "g1 Política",
+      "data": "27/11/2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/durigan-deixa-agenda-fiscal-para-2027.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Luiz Carlos Trabuco, presidente do conselho do Bradesco, aceitou o convite do presidente Luiz Inácio Lula da Silva para assumir o Ministério da Fazenda em 2027, sucedendo Dario Durigan, que permaneceu **8 meses** no cargo.",
+            "Durigan propôs um ajuste fiscal com esforço de cerca de **2 pontos percentuais** do PIB no quarto mandato de Lula, mantendo o arcabouço fiscal de 2023 e visando superávits primários de **0,5%** a **1,5%** do PIB, podendo chegar a **2%**."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O ministro apontou a necessidade de limitar créditos presumidos de PIS/Cofins, benefício de **R$ 40 bilhões** que não avançou no Congresso, e defendeu que a queda da taxa Selic ocorra pelo controle de receitas e despesas.",
+            "A agenda tributária incluiu reduzir impostos sobre o consumo, taxar lucros e dividendos, revisar isenções fiscais, tributar big techs e manter o calendário da reforma tributária, com alíquota padrão da CBS estimada em **11,3%** pelo TCU."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "O plano previu a conclusão em 2026 da transição da desoneração da folha de pagamento, novas revisões de benefícios em 2027 e o combate à pejotização irregular para evitar perdas nas contribuições previdenciárias.",
+            "Durigan defendeu a revisão de gastos obrigatórios e programas sociais para combater fraudes e duplicidades, preservando direitos da população mais pobre e abrindo espaço no Orçamento para investimentos."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#politica",
+        "#economia",
+        "#brasil",
+        "#noticias"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Juros compostos e simples lideram buscas no Google; cartão de crédito **fica em terceiro**",
+      "subtitulo": "Os conceitos de juros compostos e juros simples lideram o interesse dos brasileiros nas pesquisas do Google",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/juros-iStock.webp",
+      "fonte": "Mercado & Consumo",
+      "data": "27/11/2026",
+      "link": "https://mercadoeconsumo.com.br/27/11/2026/economia/juros-compostos-e-simples-lideram-buscas-no-google-cartao-de-credito-fica-em-terceiro/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Os conceitos de juros compostos e juros simples lideram o interesse dos brasileiros nas pesquisas do Google, conforme levantamento divulgado pela plataforma Pagou Fácil.",
+            "O estudo analisou o volume médio mensal de buscas pela expressão “juros de” no Google Brasil entre agosto de 2025 e setembro de 2026.",
+            "Os juros compostos registraram uma média de 88.045 buscas mensais, enquanto os juros simples alcançaram 25.664 pesquisas por mês no período avaliado."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Na terceira posição do ranking aparece o juros de cartão de crédito, somando 4.245 pesquisas mensais, seguido pelos juros de mora com 4.127 buscas.",
+            "A lista de modalidades também inclui juros rotativos (1.102), juros de financiamento (845), juros de empréstimo (716) e juros sobre juros (714).",
+            "Outras categorias citadas no estudo foram os juros de financiamento de veículo, com 648 buscas mensais, e os juros de poupança, que registraram 520 pesquisas."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Segundo a análise, termos mais buscados como juros compostos e simples costumam ter caráter educacional, ao passo que cartão de crédito e mora refletem o endividamento."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#economia",
+        "#varejo",
+        "#mercado",
+        "#negocios"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "Justiça do Paraguai ordena prisão de ex-ministro da Economia **por crise bancária**",
+      "subtitulo": "A Justiça do Paraguai determinou a prisão de Carlos Fernández Valdovinos, ex-ministro da Economia e Finanças",
+      "imagem": "https://s2-g1.glbimg.com/cWRx7xNiBZNtCBudlun85CWSQ40=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/5/DNBayBT1aPm3CKClK7mQ/fotojet-2026-11-27t140902.662.jpg",
+      "fonte": "g1 Mundo",
+      "data": "27/11/2026",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/27/justica-paraguai-ordena-prisao-ex-ministro-economia.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A Justiça do Paraguai determinou a prisão de Carlos Fernández Valdovinos, ex-ministro da Economia e Finanças, por causa da crise e do colapso do banco Ueno, conforme informado pelo Ministério Público nesta sexta-feira (27).",
+            "O mandado de prisão aponta suspeitas de lavagem de dinheiro, associação criminosa, corrupção passiva agravada e atos ilícitos de administração em proveito próprio, segundo documentos acessados pela AFP."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Policiais se posicionaram em frente à casa da ex-autoridade em Assunção de forma preventiva, aguardando o Ministério Público para cumprir a ordem de prisão.",
+            "O colapso do banco digital Ueno aconteceu no dia 6 de novembro e deixou milhões de clientes sem acesso aos saldos, gerando protestos na capital paraguaia e a queda do governo.",
+            "O caso provocou a destituição e a prisão do ex-presidente Santiago Peña em 6 de novembro, após investigações apontarem laços empresariais dele com a holding do banco até março de 2025."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Cerca de vinte pessoas, entre ex-funcionários públicos e parentes, também foram presas no desdobramento das investigações sobre irregularidades e falta de capital na instituição financeira."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
+      ],
+      "feed": false
+    }
+  ]
 }
