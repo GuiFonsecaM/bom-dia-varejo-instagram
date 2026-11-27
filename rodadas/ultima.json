@@ -1,3 +1,184 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "tipo": "noticia",
+      "categoria": "Varejo",
+      "manchete": "Propósito da visita e atendimento definem compra no varejo de luxo **da Oscar Freire**",
+      "subtitulo": "Um estudo do Observatório de Consumo da ESPM, feito com alunos de Administração",
+      "imagem": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/11/Oscar-Freire-divulgImagem-Oscar-Freire-por-IA.jpg",
+      "fonte": "Mercado & Consumo",
+      "data": "27/11/2026",
+      "link": "https://mercadoeconsumo.com.br/27/11/2026/noticias-varejo/proposito-da-visita-e-atendimento-definem-compra-no-varejo-de-luxo-da-oscar-freire/",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Um estudo do Observatório de Consumo da ESPM, feito com alunos de Administração, apontou que a decisão de compra na Rua Oscar Freire, em São Paulo, depende mais do atendimento e do propósito da visita do que das vitrines.",
+            "O levantamento analisou vitrines de calçados sustentáveis, moda, artigos esportivos, beleza, higiene e gastronomia artesanal, notando que a maioria dos pedestres não para para olhar as fachadas."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O tempo de atenção visual nas vitrines variou, em geral, entre dois e cinco segundos, com interações pontuais de até 15 segundos registradas em lojas de calçados.",
+            "Lojas com vendedores receptivos, linguagem corporal descontraída e disponibilidade mantiveram os clientes por períodos médios entre 10 e 25 minutos no interior dos estabelecimentos.",
+            "A experimentação, a demonstração de produtos e a degustação em locais de alimentos e sobremesas funcionaram como importantes estímulos para atrair e aproximar os consumidores."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Apesar da maior permanência nas lojas, a conversão imediata em vendas foi baixa, com visitantes focados em explorar o ambiente, buscar informações e testar produtos sem concluir a compra na hora.",
+            "Segundo a professora Annaysa Salvador, embora iluminação suave, som refinado e embalagens sofisticadas ajudem na marca, a interação humana segue sendo crucial para a conversão de vendas."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#varejo",
+        "#supermercado",
+        "#atacarejo",
+        "#varejoalimentar"
+      ],
+      "feed": true
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à **frente da Fazenda**",
+      "subtitulo": "O presidente Luiz Inácio Lula da Silva escolheu Luiz Carlos Trabuco",
+      "imagem": "https://s2-g1.glbimg.com/GXrxrmZhMExg2g3bAwnjSW71rJI=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+      "fonte": "g1 Economia",
+      "data": "27/11/2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-tera-ajuste-fiscal-juros-e-resistencia-no-pt-entre-desafios-a-frente-da-fazenda.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "O presidente Luiz Inácio Lula da Silva escolheu Luiz Carlos Trabuco, presidente do Conselho do Bradesco e integrante do Conselhão, para comandar o Ministério da Fazenda. A indicação foi bem recebida pelo mercado financeiro, que busca maior credibilidade e equilíbrio nas contas públicas.",
+            "Trabuco assumirá o cargo com a missão de lidar com o volume da dívida pública, que atingiu **R$ 11,1 trilhões** em agosto, o equivalente a **82,9%** do PIB, segundo o Banco Central. O patamar é o maior registrado desde o período da pandemia."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O novo ministro precisará propor medidas adicionais de ajuste fiscal, além de um pacote sancionado em novembro com impacto estimado em cerca de **R$ 50 bilhões** no Orçamento de 2027 para conter despesas obrigatórias e limitar créditos tributários.",
+            "A política fiscal sob a gestão de Trabuco buscará criar condições para reduzir juros, inflação e a dívida, embora a taxa Selic seja definida pelo Banco Central. Em 2023, quando a Selic estava em **13,65%** ao ano, Trabuco criticou o custo do capital no país."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "A articulação com o Congresso será essencial para aprovar eventuais mudanças em despesas e impostos, contando com o apoio do presidente da Câmara, Hugo Motta, que defende novas medidas fiscais.",
+            "Trabuco enfrentará resistência política de parlamentares do PT e do PSOL, que temem efeitos recessivos e comparam a escolha à gestão de Joaquim Levy em 2015. O ministro também precisará manter investimentos e políticas sociais prioritárias para Lula."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#economia",
+        "#varejo",
+        "#mercado",
+        "#negocios"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Paulo Guedes, Haddad e Durigan: quem foram os últimos ministros da Fazenda do Brasil antes da **escolha de Trabuco**",
+      "subtitulo": "Luiz Carlos Trabuco, presidente do conselho do Bradesco",
+      "imagem": "https://s2-g1.glbimg.com/L79o4dQqeV9CS7uDPdN8zD-s-rE=/5317x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/8a5bP8QGAajgsBvdbmSA/2026-11-26t122730z-363785437-rc2rhbaxbsib-rtrmadp-3-brazil-politics-finance-ministry.jpg",
+      "fonte": "g1 Política",
+      "data": "27/11/2026",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/paulo-guedes-haddad-e-durigan-quem-foram-os-ultimos-ministros-da-fazenda-do-brasil-antes-da-escolha-de-trabuco.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Luiz Carlos Trabuco, presidente do conselho do Bradesco, foi escolhido como o novo ministro da Fazenda do quarto mandato do presidente Luiz Inácio Lula da Silva, em um momento de pressão no mercado financeiro.",
+            "Dario Durigan assumiu interinamente a Fazenda em 19 de março de 2026 após a saída de Fernando Haddad, mantendo o foco no novo arcabouço fiscal e no ajuste das contas públicas até a chegada de Trabuco."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Fernando Haddad comandou a pasta de janeiro de 2023 até março de 2026, sendo responsável pela aprovação do novo arcabouço fiscal em 2023 e pela articulação da reforma tributária sobre o consumo.",
+            "Entre 2019 e 2022, sob o governo de Jair Bolsonaro, a Fazenda integrou o Ministério da Economia sob a gestão de Paulo Guedes, que implementou a reforma da Previdência em 2019 e o Auxílio Emergencial em 2020."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Eduardo Guardia esteve à frente da Fazenda de abril de 2018 a dezembro de 2018 no governo de Michel Temer, com foco no teto de gastos e na tentativa de avançar com a reforma da Previdência.",
+            "Henrique Meirelles liderou o ministério entre maio de 2016 e abril de 2018, marcando sua gestão pela aprovação do teto de gastos em 2016 e da reforma trabalhista em 2017 para conter a recessão."
+          ]
+        },
+        {
+          "titulo": "O que vem agora",
+          "topicos": [
+            "Nomes como Guido Mantega (2006-2014), Joaquim Levy (2015) e Nelson Barbosa (2015-2016) passaram pela Fazenda em períodos de forte impacto internacional, ajuste fiscal e crises econômicas e políticas."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#politica",
+        "#economia",
+        "#brasil",
+        "#noticias"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "Carne brasileira 'dopada'? Auditoria da própria União Europeia contraria **declaração de Macron**",
+      "subtitulo": "O presidente da França, Emmanuel Macron, afirmou em 25 de novembro de 2026, no Palácio do Eliseu",
+      "imagem": "https://s2-g1.glbimg.com/fInub271z2FAx7EMHlKzQqFVrgE=/3495x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/a/2Zt91CSJGr5BgvOYSyeA/2026-11-25t155056z-2005532813-rc23voa74c3u-rtrmadp-3-france-politics-farmers.jpg",
+      "fonte": "g1 Economia",
+      "data": "27/11/2026",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/27/carne-brasileira-dopada-auditoria-da-propria-uniao-europeia-contraria-declaracao-de-macron.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "O presidente da França, Emmanuel Macron, afirmou em 25 de novembro de 2026, no Palácio do Eliseu, que a carne brasileira seria \"dopada\" e celebrou a suspensão das importações de produtos animais do Brasil pela União Europeia, em vigor desde 3 de setembro."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O Ministério da Agricultura do Brasil e entidades do setor criticaram as declarações, classificando-as como desinformação de caráter político e protecionista, e destacaram que a própria Comissão Europeia comprovou a conformidade do sistema brasileiro em auditoria realizada de 24 de agosto a 4 de setembro.",
+            "A suspensão da UE decorre de dúvidas sobre os controles de antimicrobianos, e não de irregularidades encontradas na carne, afetando a exportação de frango e mel — cujos sistemas foram aprovados em relatório da UE de 28 de setembro — além da carne bovina."
+          ]
+        },
+        {
+          "titulo": "Contexto",
+          "topicos": [
+            "Para a carne bovina na Lista Trace, a nova exigência europeia obriga a comprovação de que o animal não recebeu antimicrobianos durante toda a vida, superando a regra anterior que exigía o controle apenas nos 100 dias anteriores ao abate.",
+            "O Brasil é o único país do Mercosul atingido pela medida restritiva, enquanto Argentina, Paraguai e Uruguai continuam autorizados a exportar produtos de origem animal para o bloco europeu."
+          ]
+        },
+        {
+          "titulo": "O que vem agora",
+          "topicos": [
+            "A retomada das exportações brasileiras de frango e mel depende de uma decisão da UE prevista para os dias 8 e 9 de dezembro, após o adiamento de uma análise que ocorreria em 17 de novembro a pedido de países europeus por mais esclarecimentos."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
+      ],
+      "feed": false
+    }
+  ]
 }
