@@ -1,3 +1,151 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "tipo": "noticia",
+      "categoria": "Varejo",
+      "manchete": "Jornalista transformou pipoca em cappuccino, sorvete e milk-shake; negócio inusitado já tem **52 lojas**",
+      "subtitulo": "A jornalista e ex-empresária de buffet Elaine Moura transformou uma receita de pipoca artesanal",
+      "imagem": "https://s2-g1.glbimg.com/Xc7RD8AvvVm4VrS6gYIAfpNE98U=/1899x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/7/bJQmjWSRCfXH32YdUWrw/captura-de-tela-2026-11-27-182125.png",
+      "fonte": "g1 Economia",
+      "data": "28/11/2026",
+      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/28/pipoca-cappuccino-sorvete-e-milk-shake-negocio-rede.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "A jornalista e ex-empresária de buffet Elaine Moura transformou uma receita de pipoca artesanal, criada originalmente como agrado para clientes em Goiânia (GO), em uma rede com **52 lojas** franqueadas pelo Brasil.",
+            "A ideia surgiu quando uma cliente contratou o buffet e pediu a pipoca para um casamento, fazendo a fundadora perceber que o produto gerava mais lucro e exigia menos insumos e trabalho.",
+            "Antes da expansão, o produto foi testado em um evento de decoração, onde todo o estoque produzido foi totalmente vendido em apenas 40 dias."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "O modelo de negócio virou franquia em 2016 e a rede expandiu nacionalmente, oferecendo sabores como caramelo com flor de sal, churros com doce de leite, chocolate trufado, pequi e castanha de baru.",
+            "O cardápio foi diversificado para evitar o desperdício de sobras industriais, gerando itens derivados como cappuccino, sorvete, milk-shake, brownie, brigadeiro e farofa caramelizada feitos a partir da pipoca.",
+            "A empresária buscou capacitação gerencial e precificação em programas do Sebrae, como o Empretec, formação que agora recomenda aos franqueados da rede."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#varejo",
+        "#supermercado",
+        "#atacarejo",
+        "#varejoalimentar"
+      ],
+      "feed": true
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Economia",
+      "manchete": "Peso de grupo que inclui arroz e feijão nos gastos com alimentação cai quase pela metade **em duas décadas**",
+      "subtitulo": "",
+      "imagem": "https://s2-g1.glbimg.com/Lu7tiOWxvBgpjtVwGbCLgjt4PAM=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/I/Z9Ta5eRDazGdAy1AS6sA/montagem-horizontal-1280x720px-42-.jpg",
+      "fonte": "g1 Economia",
+      "data": "28/11/2026",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/28/ibge-gastos-com-alimentacao.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Em pouco mais de duas décadas, a participação do grupo que inclui arroz e feijão nos gastos das famílias brasileiras com alimentação em casa caiu de **10,4%** para **5,4%**, segundo dados divulgados nesta sexta-feira (27) pelo IBGE.",
+            "A comparação feita pela Pesquisa de Orçamentos Familiares (POF) abrange os períodos entre 2002 e 2003 e entre 2024 e 2025.",
+            "No mesmo intervalo, a fatia dos alimentos preparados, como marmitas e delivery, quase dobrou, subindo de **2,3%** para **4,2%** do orçamento dedicado à comida em domicílio."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "Em 2024 e 2025, as famílias brasileiras gastavam em média **R$ 1.113** por mês com alimentação, sendo **R$ 755,37** com comida em casa e **R$ 357,63** com alimentação fora do lar.",
+            "No grupo de cereais, leguminosas e oleaginosas, que somava **R$ 40,82** mensais por família, o arroz respondia por **R$ 24,01** e o feijão por **R$ 10,52,** enquanto os alimentos preparados somavam **R$ 31,36.**",
+            "O grupo de carnes, vísceras e pescados manteve a maior fatia da despesa com comida em casa, passando de **18,3%** em 2002-2003 para **20,5%** em 2024-2025, o que equivalia a **R$ 154,50** mensais por família."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#economia",
+        "#varejo",
+        "#mercado",
+        "#negocios"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "mundo",
+      "categoria": "Mundo",
+      "manchete": "A geração Z acordou? Por que os jovens estão deixando as telas para **protestar nas ruas**",
+      "subtitulo": "Jovens da geração Z têm voltado a ocupar ruas em diferentes partes do mundo para protestar contra governos",
+      "imagem": "https://s2-g1.glbimg.com/e0a_H-cZPRp46oNUh_XOe-mdf3w=/6000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/3/fnnQw3SmuL1gDyukzfZA/2026-11-14t154842z-1728763676-rc2qnoanosf3-rtrmadp-3-france-protest.jpg",
+      "fonte": "g1 Mundo",
+      "data": "28/11/2026",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/28/a-geracao-z-acordou-por-que-os-jovens-estao-deixando-as-telas-para-protestar-nas-ruas.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "Jovens da geração Z têm voltado a ocupar ruas em diferentes partes do mundo para protestar contra governos, reivindicar direitos e defender projetos de sociedade.",
+            "Na França, manifestações iniciadas em setembro de 2026 e que seguem por três meses reúnem jovens contra o custo de vida e a precarização da educação superior.",
+            "A brasileira Barbara Tesseire, de **27 anos**, estudante da Universidade de Sorbonne desde 2024, relata que a falta de empregos de qualidade motivou os protestos na França."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "As marchas na França, maiores desde 2018, surgiram após um longo período de repressão da desesperança e devem continuar até as eleições presidenciais de abril de 2027.",
+            "No Brasil, a mobilização de estudantes no segundo turno resultou na reeleição de Luiz Inácio Lula da Silva (PT), demonstrando engajamento na política institucional.",
+            "Especialistas apontam que a geração Z (nascidos entre 1997 e 2012) enfrenta crises econômicas, pandemia, conflitos e a percepção de oportunidades rebaixadas em relação aos pais."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#mundo",
+        "#economiaglobal",
+        "#noticias",
+        "#internacional"
+      ],
+      "feed": false
+    },
+    {
+      "tipo": "noticia",
+      "categoria": "Política",
+      "manchete": "Fios clandestinos terão prazo para ser regularizados; entenda regras aprovadas pelo Congresso sobre **compartilhamento de postes**",
+      "subtitulo": "",
+      "imagem": "https://s2-g1.glbimg.com/akeBVUTN2i-pohQH0QXfKlwFlq0=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/v/AtsO7kRxu1h5mAoB2xbQ/vlcsnap-2026-11-05-20h40m25s484.png",
+      "fonte": "g1 Política",
+      "data": "28/11/2026",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/28/fios-clandestinos-terao-prazo-para-ser-regularizados-entenda-regras-aprovadas-pelo-congresso-sobre-compartilhamento-de-postes.ghtml",
+      "materia": "",
+      "slides": [
+        {
+          "titulo": "O que aconteceu",
+          "topicos": [
+            "O Congresso concluiu a votação de um projeto de lei que estabelece novas normas para fiscalização e compartilhamento de postes, infraestrutura que soma mais de **53 milhões** de unidades no país.",
+            "O texto foi enviado para sanção do presidente Luiz Inácio Lula da Silva, que tem prazo até o dia 10 de dezembro para decidir sobre a sanção ou eventuais vetos.",
+            "Empresas com fiação clandestina terão 180 dias, após a nova regra, para solicitar regularização sem incidência de multas, enquanto cabos que geram riscos devem ser removidos imediatamente."
+          ]
+        },
+        {
+          "titulo": "Mais detalhes",
+          "topicos": [
+            "A meta estipulada é finalizar a regularização de toda a rede em um prazo de até cinco anos, o qual poderá sofrer ampliação pela Aneel em casos excepcionais.",
+            "O projeto fixa um teto para o aluguel cobrado de operadoras de internet, telefonia e TV por assinatura, sendo que nas zonas rurais o limite corresponderá à metade do preço urbano."
+          ]
+        }
+      ],
+      "hashtags": [
+        "#BomDiaVarejo",
+        "#politica",
+        "#economia",
+        "#brasil",
+        "#noticias"
+      ],
+      "feed": false
+    }
+  ]
 }
